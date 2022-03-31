@@ -1,15 +1,20 @@
+---
+    versions: [email an land steiermark, email an stadt graz]
+
+---
+
 # off_gallery graz – Projektbericht 2021
 
 
-/vernissage_ana_opalic 2.jpg
+![](pics/vernissage_ana_opalic.jpg)
 
 Vernissage mit Ana Opalić (22.6.)
 
-/zoom_giovanna_silva.jpg
+![](pics/zoom_giovanna_silva.jpg)
 
 Artist talk mit Giovanna Silva via Zoom (23.10.)
 
-/collagen_eva_mohringer.jpg
+![](pics/collagen_eva_mohringer.jpg)
 
 Schaufenster der Galerie mit Collagen von Eva Mohringer-Milowiz (16.11.)
 
