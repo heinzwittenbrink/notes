@@ -6,6 +6,9 @@
 ![Blick in "everydaygraz/Mein Feldbach"](pics/mein_feldbach_scheibe.jpg)
 ![Gedruckter Jahresbericht 2019/2020](pics/catalogo.jpg)
 
+
+#offgallery
+
 Im Jahr 2020 konnten wir die geplanten Vorhaben nur in beschränktem Umfang realisieren. Die Durchführung von Ausstellungen und Veranstaltungen war durch die Corona-Pandemie und die damit verbundenen Einschränkungen weitgehend unmöglich. Außerdem hat der Tod von Erika Petrić im Juli unsere Arbeit im vergangenen Jahr bestimmt. Wir haben uns bemüht, die Galerie lebendig zu erhalten und Grundlagen für die weitere Arbeit in den folgenden Jahren zu legen.
 
 Wir konnten im vergangenen Jahr nur drei Ausstellungen durchführen, von denen wir zwei angesichts der Pandemie modifiziert bzw. neukonzipiert haben.
