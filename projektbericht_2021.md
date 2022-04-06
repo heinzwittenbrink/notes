@@ -90,13 +90,21 @@ Fotografin: Giovanna Silva. Ausführung: Giovann Silva, Anastasija Georgi, Eröf
 
 Fotografin: Eva Mohringer-Milowiz, Ausführung: Anastasija Georgi, Eröffnung mit Künstlergespräch: 16.11.2020. Bilder Eröffnung: https://www.facebook.com/offgallerygraz/posts/1503695606698324 
 
+<<<<<<< Updated upstream
 Online-Diskussion zur Ausstellung "Leaning from Kärntnerstraße": 30.11.2021. 
 
 Teilnehmer:innen:  Eva Mohringer, Petra Eckhard (TU Graz),  Bernhard Inninger (Grazer Stadtplanungschef), Mark Blaschitz (Architekt und Autor). Moderation: Heinz Wittenbrink
+=======
+Online-Diskussion zur Ausstellung "Leaning from Kärntnerstraße": 30.11.2021. Teilnehmer:innen:  Eva Mohringer, Petra Eckhard (TU Graz),  Bernhard Inninger (Grazer Stadtplanungschef), Mark Blaschitz (Architekt und Autor). Moderation: Heinz Wittenbrink. Videoaufzeichnung: https://vimeo.com/693875920 
+>>>>>>> Stashed changes
 
 Aufzeichnung der Diskussion: https://vimeo.com/693875920
 
+<<<<<<< Updated upstream
 ## Veränderungen gegenüber der Planung für 2021 ("Beilage zum Jahresprogramm 2021")
+=======
+## Veränderungen gegenüber der Planung für 2021 ("Beilage zum Jahresprogramm 2021"):
+>>>>>>> Stashed changes
 
 Wir mussten unser Ausstellungsprogramm modifizieren, da wir nicht in der ursprünglich beantragten Höhe gefördert wurden. Außerdem waren die geplanten Veranstaltungen in der anhaltenden Pandemiesituation nicht wie geplant durchführbar.
 
