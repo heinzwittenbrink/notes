@@ -1,10 +1,20 @@
-## Wie kann eine ökologische Diskurskultur aussehen?
+
+
+## Lässt sich ein ökologisches Politik-Paradigma nach dem liberalen und dem sozialistischen formulieren?
+
+
+3. **(Stichwort: Besonderheit der ökologischen Thematik) Relativiert die politische und diskursive praxis die ökologische thematik zu sehr? Worin besteht das Besondere der ökologischen Diskurse?** Nichtreduzierbarkeit. Ökologische Politik braucht eine eigene Diskurskultur, die sich nicht auf eine der vorhandenen Diskurskulturen reduzieren lässt.
+         - Globale Indizien: Ökologische Politik wird entweder einem im weitesten Sinn liberalen oder sozialistischen Politikkonzept untergeordnet
+         - Lokale Indizien: Themen der Parteien und der politischen Diskurse
+         - Schaffen wir es, eine Diskurshegemonie für ökologische Themen herzustellen?
 
 
 
-### Wissenschaftlichkeit
+Wie kann eine ökologische Diskurskultur aussehen?
 
-Die Voraussetzung einer ökologischen Diskurskultur ist es, die Fakten über die ökologsche und soziale Situation ernst zu nehmen und die wissenschaftlichen Erkenntnisse dazu nicht zu ignorieren. Es geht um die Veränderungen des Erdsystems, vor allem um die Veränderungen in unserer Nähe.
+
+
+
 
 ### Orientieren am Befinden
 

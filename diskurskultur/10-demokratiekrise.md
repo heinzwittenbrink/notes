@@ -1,4 +1,11 @@
-## Warum ökologische Diskurskultur?
+## Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
+
+Überleben der Menschheit – Überleben der Demokratie. 9 Fragen und Hinweise auf Antworten
+
+1. **(Stichwort: Demokratiekrise) Sind die ökologischen Krisen demokratisch lösbar? Ist die die Krise der Demokratie, die wir gerade erleben, angesichts der ökologischen krisen nicht behebbar?** Ökologie und Demokratiekrise. Der demokratische Diskurs der letzten Jahrzehnte war nicht dazu in der Lage, das Risiko der größten Katastrophe in der Geschichte der Menschheit zu verhindern.
+            - Globale Indizien: Emissionsentwicklung, Präsenz der ökologischen Themen in der Öffentlichkeit
+            - Lokale Indizien: Demokratischer Diskurs über die Klimakrise in Graz/in der Steiermark
+            - Schaffen wir es hier in Graz und der Steiermark, einen Weg zum 1,5°-Ziel demokratisch zu vermitteln?
 
 ### Planetare Grenzen und ökologische Politik
 
@@ -8,9 +15,11 @@ Im Anthropozän sind die bisher rein *natürlichen* Prozesse, von denen die Exis
 
 Die Klimakrise ist das am meisten diskutierte Beispiel für solche Prozesse, und wahrscheinlich das inwischen am beste untersuchte. Der gerade veöffentlichte Bericht des Weltklimarats stellt fest, dass die Fortsetzung der aktuellen Politik dazu führen wird, dass die Temperaturen am Ende dieses Jahrhunderts um etwa 2,7 °Celsius über den Temperaturen vor der Industrialisierung liegen werden. Dieser Temperaturunterschied mag gering wirken, aber er bedeutet für alle Ökosysteme auf der Erde Veränderungen, die bei weitem drastischer sind als am Ende der letzten Eiszeit und die überdies in einem Bruchteil der Zeit geschehen, das in der Erdgeschichte für solche Veränderungen zur Verfügung stand. Vür über drei Millionen Jahren, im mittlereren Pliozän, waren CO2-Gehalt und Temperaturen ähnlich hoch [@masson-delmotteClimateChange20212021 p. 1891].
 
-### Lokales Handeln und globale Krise
+Warum ist eine ökologische Diskurskultur nötig. Ihre Vertreterinnen und Vertreter sind sich darin einig, dass die demokratische Kultur, die sich in den letzten Jahrzehnten etabliert hat, nicht dazu in der Lage war, die ökologischen Katastrophen aufzuhalten, die wir bereits erleben und die von der gesamten ernst zu nehmenden Wissenschaft pronostiziert werden. 
 
-Die ökologischen Krisen der Gegenwart betreffen den ganzen Globus und sie erfordern globales Handeln. Katastrophen lassen sich aber nur verhindern, wenn dieses Handeln lokal ist. Die Komponenten des Erdsystems, die lokalen ökologischen und sozialen Systeme müssen so funktionieren und so miteinander verbunden sein, dass die Grenzen des Erdsystems insgesamt nicht überschritten werden. Wir sind an jedem Ort des Erdsystems für die lokalen Systeme verantwortlich. Nur so können wir den Handlungsraum des gesamten Erdsystems bewahren. Wir müssen deshalb eine *terrestrische* [@latourTerrestrischeManifest2018] , irdische Politik machen, nicht eine Politik, die von der Fiktion einer globalen Entwicklung und eines globalen Marktes ausgeht. 
+Die Natur, die Umwelt, das Außen der menschlichen Gesellschaft, von dem wir abhängen, wird in unserer demokratischen Kultur nicht oder viel zu wenig repräsentiert&mdash;und das gilt für die politischen Diskussionen im engeren Sinn wie für die Medien. Die Erkenntnisse des Weltklimarats werden seit Jahrzehnten immer dramatischer. Trotzdem erreichen die Treibhausgasemissionen nahezu jedes Jahr ein neues Rekordhoch. Es werden zwar Beschlüsse über weit entfernte Klimaziele gefasst, aber aktuell schaffen es nur wenige Länder ihre Emissionen zu reduzeren. 
+
+Der Weltklimarat unterscheidet bei den Maßnahmen, die angesichts der globalen Erhitzung nötig sind, zwischen Anpassunng, Adaptation, und Milderung, Mitigation. Beide sind im Augenblick unzureichend. Beide sind, was das Klima betrifft, nicht nur inkrementell möglich.
 
 ### Demokratischer Diskurs und Gründe für das Nichthandeln
 
