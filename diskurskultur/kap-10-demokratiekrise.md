@@ -1,5 +1,40 @@
 ## Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
 
+Kim Stanley Robinson schildert in *The Ministry for the Future*, wie es die Menschheit zwischen 2030 und 2050 schafft, die Klimakrise zu beherrschen. Nach katastrophalen Hitzewellen entscheiden sich die Staaten der Welt zur Kooperation, reduzieren die Emissionen radikal und überlassen eine Hälfte der Territorien der Erde wieder der Natur. Der CO2-Gehalt der Atmospäre beginnt zu sinken. In den 50er Jahren des 21. Jahhunderts können die Menschen hoffen, dass sich die ökologische Lage des Planeten in ihrer Zukunft verbessern und nicht noch weiter verschlechtern wird. 
+
+Diese positive Utopie kommt nicht nur auf friedlichem Wege zustande. Nachdem Millionen Menschen in Indien der Hitze zum Opfer gefallen sind, formiert sich dort die Terrororganisation *Kinder der Kali*. Auch das Ministerium für die Zukunft, das weltweit den Kampf gegen die Klimakatastrophe anführt, hat einen *schwarzen Arm*. Zu den Mitteln des Kampfes für das Klima gehören Attentate auf Exponenten der fossilen Wirtschaft. Drohnenanschläge auf Flugzeuge beenden weltweit die Zivilluftfahrt mit fossilen Brennstoffen.
+
+In Robinsons Roman siegen letztlich auch Demokratie und internationale Kooperation. Aber die friedlichen Mittel der Demokratie allein haben nicht ausgereicht, um eine Existenzkrise der Menschheit zu lösen. Terror und Alleingänge von Staaten – massive Schwefelinjektionen in die Atmosphäre durch Indien – sind nötig um die Fossilindustrie und mit ihr ganzes Wirtschaftssystem zu besiegen, das große Teile der Erde unbewohnbar macht.  
+
+Robinsons Roman ist keine Verherrlichung des Terrors sondern eine Warnung. Je zerstörerischer die ökologischen Krisen werden, desto mehr Gewalt werden sie hervorrufen. 
+
+Klima- und Erdsystemwissenschaften sagen eindeutig, dass die Lebensgrundlagen der Menschheit bedoht sind. 
+
+Die Demokratien haben es bisher nicht geschafft, darau adäquat zu reagieren. 
+
+Zu den Folgen dieser Unfähigkeit gehört nicht nur die ökologische Katastrophe, sondern sie gefährden auch die Demokratie. Wenn es nicht gelingt, Handlungsfähigkeit gegenüber den ökologischen Krisen herzustellen, dann deligitimiert das die Demokratie. Ich möchte hier fragen, wo sich unsere Demokratien verändern müssen, um *Anpassung und Minderung* Adaptation und Mitigation angesichts der Klimakrise und der übrigen ökologischen Krisen sicherzustellen. 
+
+Da man Themen von den Dimensionen der Klimakrise und der Krise der westlichen Demokratie nicht in einem Magazinartikel behandeln kann, versuche ich eher, einen Einblick in vorhandene Diskussionen zu geben - also Scheinwerfer vorzuschlagen, mit denen man einen Überblick über die Diskussionen und Debatten zu dieser Thematik und auf einige Querverbindugen zwischen ihnen 
+
+Ich möchte deshalb 
+
+Ich versuche in diesem Text Fragen nach dem Verhältnis der Demokratie zu ökologischen Krisen zu stellen, die die Existenz der menschlichen Zivilisation bedrohen. Alle diese Fragen beziehen sich auf die Reformierbarkeit unserer demokratischen Kultur angesichts der ökologischen Herausforderungen. Ich kann diese Fragen nicht beantworten. Die Antworten werden von den politischen Entwicklungen der kommenden Jahrzehnte gegeben werden. Ich habe versucht diese Fragen so zu formulieren, dass sich mit ihnen wichtige Aspekte von Diskussionen zur demokratischen Kultur angesichts der ökologischen Krise erfassen lassen. 
+
+Die erste der acht Fragen ist übergreifend, die anderen sieben sind Unterfragen zu ihr: 
+
+1. Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
+2. Muss sich das Verhältnis von unpolitischer Wissenschaft und pluralistischer demokratischer Entscheidungsfindung ändern?
+3. Lässt sich nach dem liberalen und dem sozialistischen ein ökologisches Politik-Paradigma formulieren?
+4. Scheitert unser Modell der Pressefreiheit angesichts der wissenschaftsfeindlichen Propaganda?
+5. Blockiert die Globalisierung lokales demokratisches Handeln gegen die ökologische Krisen?
+6. Können nichtmenschliche Akteure, etwa Tier- und Pflanzenarten, Ökosysteme oder Landschaften zu politischen Subjekten werden?
+7. Ist ökologische demokratische Politik jenseits der parlamentarischen Demokratie möglich?
+8. Hängen ökologische Krisen und antidemokratische Tendenzen zusammen?
+
+Diese Fragen beziehen sich auf demokratische Einrichtungen, Praktiken und vor allem Diskurse. Sie berühren nur Aspekte der ökologischen Krisen und nicht ihre erkennbaren Ursachen. Es geht also nicht um eine Diskussion unseres Wirtschafts- und Gesellschaftssystems. Aber ohne Politik und ohne Diskurse lässt sich unsere Gesellschaft nicht verändern - deshalb ist es wichtig, nach den vorhandenen demokratischen Instrumenten und ihren grenzen zu fragen, gerade wenn man nicht vor allem das politische, sondern das Wirtschaftssystem verändern will. 
+
+Die ökologischen Krisen und die Dermokatie sind Menschheitsthemen, die man nicht in einem kurzen Ausatz abhandeln kann. Es geht hier nur um eine politische Standortsbestimmung - ich versuche, mich und andere in einer kaum überschaubaren  Masse von Diskussionen, Informationen und Konzepten zu orientieren.
+
 Überleben der Menschheit – Überleben der Demokratie. 9 Fragen und Hinweise auf Antworten
 
 1. **(Stichwort: Demokratiekrise) Sind die ökologischen Krisen demokratisch lösbar? Ist die die Krise der Demokratie, die wir gerade erleben, angesichts der ökologischen krisen nicht behebbar?** Ökologie und Demokratiekrise. Der demokratische Diskurs der letzten Jahrzehnte war nicht dazu in der Lage, das Risiko der größten Katastrophe in der Geschichte der Menschheit zu verhindern.
