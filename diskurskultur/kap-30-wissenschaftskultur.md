@@ -3,7 +3,9 @@
 
 Die Stadt Graz erarbeitet gerade einen Klimaplan. Zum ersten Mal wurde systematisch erfasst, für welche Emissionen die Stadt verantwortlich ist.
 
-2. **(Stichwort: Scheiternde Wissenschaftskommunikation) Versagen die Ersystemwissenschaften aus strukturellen gründen bei der politischen Kommunikation? Wie ist das Verhältnis von wissenschaftlichen und politischen Diskursen? Wo warum gelingt, und vor allem: Wo scheitert die Übersetzung zwischen beiden?** Scheitern des Aktivismus. Wissenschaft und Aktivismus sind bisher dabei gescheitert, eine ökologische Politik durchzusetzen, die auch nur ansatzweise den Herausforderungen der ökologischen Krise gerecht wird.
+ **(Stichwort: Scheiternde Wissenschaftskommunikation) Versagen die Ersystemwissenschaften aus strukturellen gründen bei der politischen Kommunikation? Wie ist das Verhältnis von wissenschaftlichen und politischen Diskursen? Wo warum gelingt, und vor allem: Wo scheitert die Übersetzung zwischen beiden?** Scheitern des Aktivismus. Wissenschaft und Aktivismus sind bisher dabei gescheitert, eine ökologische Politik durchzusetzen, die auch nur ansatzweise den Herausforderungen der ökologischen Krise gerecht wird.
+
+**These: Wir brauchen eine neue Definition des Verhältnisses von Wissenschaft und Politik. Sie muss sicherstellen, dass die Erkenntnisse über die ökologische Situation Vorgaben für die Politik sind.**
          - Globale Indizien: Wirkungslosigkeit der Forschung
          - Lokale Indizien: Die hervorragende Forschung vor Ort hat für die städtische Politik kaum Konsequenzen
          - Schaffen wir es, die Transformation der Region zu einem Ziel der akademischen Forschung zu machen?

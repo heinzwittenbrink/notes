@@ -1,7 +1,9 @@
 ## Blockiert die Globalisierung lokales demokratisches Handeln gegen die ökologische Krisen?
 
 
-### Lokales Handeln und globale Krise
+**These: Eine ökologische demokratische Politik muss lokale Entscheidungen treffen können. Die Handelnden müssen lokal definiert werden, nicht als Komponenten eines globalen Markts.**
+
+### Weltmarkt oder lokale Demokratie?
 
 Die ökologischen Krisen der Gegenwart betreffen den ganzen Globus und sie erfordern globales Handeln. Katastrophen lassen sich aber nur verhindern, wenn dieses Handeln lokal ist. Die Komponenten des Erdsystems, die lokalen ökologischen und sozialen Systeme müssen so funktionieren und so miteinander verbunden sein, dass die Grenzen des Erdsystems insgesamt nicht überschritten werden. Wir sind an jedem Ort des Erdsystems für die lokalen Systeme verantwortlich. Nur so können wir den Handlungsraum des gesamten Erdsystems bewahren. Wir müssen deshalb eine *terrestrische* [@latourTerrestrischeManifest2018] , irdische Politik machen, nicht eine Politik, die von der Fiktion einer globalen Entwicklung und eines globalen Marktes ausgeht. 
 

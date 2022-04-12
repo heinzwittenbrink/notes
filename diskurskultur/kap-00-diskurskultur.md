@@ -1,6 +1,10 @@
-## Diskurskultur und ökologische Politik
+## 6 Vorschläge für eine ökologische Diskurskultur 
+
+Diskurskultur und ökologische Politik
 
 
+
+(Es geht in diesem Aufsatz um die Entwicklung einer Diskurskultur, die eine ökologische Demokratie vorbereitet und trägt. Ich beschäftige mich vor allem damit, wie sich iin einer solchen Diskurskultur die politisch Handelnden definieren. Elemente sind dabei: "Ökologische Definition des Sozialen, Faktenbasiertheit/Wissenschaftlichkeit, Schutz der öffentlichen Meinung vor Manipulation, Lokalisierung, Regenerative Kultur")
 
 In unserem demokratischen Diskurs gibt es einen tiefen Graben. Er wird selten überbrückt, auch wenn sich Vertreterinnen und Vertreterinnen der beiden Lager, die dieser Graben trennt, immer wieder gegenübersitzen. Der Graben trennt Aktivistinnen und Aktivisten, Wissenschaftlerinnen und Wissenschaftler, die sich zu Klima- und Ökologiebewegung zählen, und die institutionalisierten Politik, große Teile des Journalismus und auch Expertinnen und Experten anderer Fachgebiete voneinander. Nur wenige in der Politik, vor allem Grüne, fühlen sich beiden Seiten zugehörig. Das bedeutet aber nicht, dass sie auf beiden Seiten akzeptiert werden. 
 

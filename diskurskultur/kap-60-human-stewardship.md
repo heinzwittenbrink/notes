@@ -1,6 +1,8 @@
 ## Können nichtmenschliche Akteure, etwa Tier- und Pflanzenarten, Ökosysteme oder Landschaften zu politischen Subjekten werden?
 
 
+**These: Die politisch Handelnden dürfen nicht mehr anthropozentrisch definiert werden.** 
+
 Unsere Demokratie ist anthropozentrisch definiert: die politisch Handelnden sind Menschen und Gruppen, und auch das Rechtssystem kenn bis auf wenige Ausnahmen nur die Rechte von Menschen und Vereinigungen von Menschen. Eine weitere Herausforderung der Demokratie im Anthropozän besteht darin, die Begrenztheit dieses Ansatzes zu erkennen und anzuerkennen, dass auch andere Wesen als Menschen Rechte haben und politisch handeln können. Es wurden und werden  viele Diskussionen zu diesem Thema geführt. Oft geht es dabei um Respekt und Schutz der Natur. Die ökologischen Krisen machen es aber darüber hinaus auch nötig, die Handlungskraft der Natur, des *land* anzuerkennen und mit ihr, statt sie auzubeuten, politische und wirtschaftliche Bündnisse zu schließen.
 
 ### Bündnisse mit der Natur und regenerative Politik

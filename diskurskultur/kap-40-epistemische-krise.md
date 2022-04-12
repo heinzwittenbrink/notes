@@ -2,6 +2,9 @@
 
 
 **(Stichwort: Epistemic Crisis) Welche Faktoren unterstützen eine Ermächtigung ökologischer Kräfte, welche verhindern sie? Ist die Asymmetrie bereits so groß, dass gegen die Manipulation nicht erfolgreich angegangen werden kann?** Ermächtigung gegen Entmächtigung. Das Gegenteil der Diskurskultur ist die Klimaleugnung, die auf Entmächtigung des ökologischen Aktivismus ausgerichtet ist. 
+
+**These: Welche Qualität eine ökologische Demokratie hat, hängt zu einem großen Teil von Diskurskultur und Informationen ab. eine entsprechende Infrastruktur muss gegen privatwirtschaftliche Interessen durchgesetzt werden.**
+
       - Globale Indizien: Trump, Network Propaganda
       - Lokale Indizien: Impfgegner-Demos in Graz, Greenwashing
       - Sind Standards und Policies möglich, durch die wir faktenfeindliche Ideologien gemeinsam Identifizieren
