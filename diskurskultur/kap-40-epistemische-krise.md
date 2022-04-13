@@ -1,34 +1,29 @@
 ## Scheitert unser Modell der Pressefreiheit angesichts der wissenschaftsfeindlichen Propaganda?
 
 
-**(Stichwort: Epistemic Crisis) Welche Faktoren unterstützen eine Ermächtigung ökologischer Kräfte, welche verhindern sie? Ist die Asymmetrie bereits so groß, dass gegen die Manipulation nicht erfolgreich angegangen werden kann?** Ermächtigung gegen Entmächtigung. Das Gegenteil der Diskurskultur ist die Klimaleugnung, die auf Entmächtigung des ökologischen Aktivismus ausgerichtet ist. 
+### Polarisierung als Instrument des Rechtspopulismus
 
-**These: Welche Qualität eine ökologische Demokratie hat, hängt zu einem großen Teil von Diskurskultur und Informationen ab. eine entsprechende Infrastruktur muss gegen privatwirtschaftliche Interessen durchgesetzt werden.**
+Die Corona-Leugner-Demos waren der letzte und bisher drastischste Ausdruck einer wissenschaftsfeindlichen politischen Haltung. 
 
-      - Globale Indizien: Trump, Network Propaganda
-      - Lokale Indizien: Impfgegner-Demos in Graz, Greenwashing
-      - Sind Standards und Policies möglich, durch die wir faktenfeindliche Ideologien gemeinsam Identifizieren
+Zu dieser Haltung gehört eine Polarisierung, ein Freund-Feind-Schema und die Abkopplung von den offiziellen politischen Diskursen.
 
+Es ist gut erforscht, wie vor allem in Amerika diese Polarisierung den Boden für Trump bereitet hat. Sie führt zu einer *epistemic crisis*, die von Interessierten befeuert wird. Zu den Interessierten gehören die Fossil fuel-Industrie und autoritäre Regime. 
 
-Zu unserer Demokratie gehört die Pressefreiheit, und zur Pressefreiheit gehört es, dass die Handelnden nicht die direkt politisch Handelnden. Zur pressefreiheit gehört auch, dass journalistische Arbeit unabhängig von Wirtschaftsinteressen ist.
+### Verbindung von medialer Polarisierung und antiwissenschaftlicher Manipulation
 
-Seit dem Beginn der Erforschung der ökologische Krisen, eigentlich schon seit dem Beginn einer ökologischen Bewegung, haben Interessengruppen publizistisch gegen ökologische Politik mobilisiert. Sie waren und sie sind dabei erfolgreich. 
-
-Diese antiwissenschaftliche Propaganda hat sich in den letzen 20 zunehmend mit einer generell antidemoratischen und auch anti-Medien-Propaganda verbunden. Hinter dieser Propaganda stehen einerseits Leute mit wirtschaftlicher Macht, die die Öffentlichkeit gezielt manipulieren. Andererseits wird sie von den monopolistischen und werbefinanzierten Internetplattformen begünstigt. 
-
-Auch hier werden die Grundpfeiler der Demokratie zu Balken im Auge der Demokratinnen und Demokraten. Pressefreit und  Meinungsfreiheit werden benutzt, um Propaganda zu verbreiten. Regulierungen, die die Unabhängigkeit von Medien sicherstellen, werden gezielt unterlaufen, und gleichzeitig arbeiten die wichtigsten Plattformen für die Verbreitung von Inhalten weitgehend oder völlog unabhängig von jeder Regulierung.
+Heute übernimmt dieser polarisierte, territorialistische Diskurs immer mehr auch die wissenschaftsfeindliche Propaganda, die über Jahrzehnte aus wirtschaftlichem Interesse heraus vor allem von der Fossil Fuel-Indurstrie gefördert wurde. Seit dem Beginn der Erforschung der ökologische Krisen, eigentlich schon seit dem Beginn einer ökologischen Bewegung, haben Interessengruppen publizistisch gegen ökologische Politik mobilisiert. Sie waren und sie sind dabei erfolgreich. Milliardäre, die gezielt politisch manipulieren, spielen dabei eine wichtige Rolle. Andererseits wird sie von den monopolistischen und werbefinanzierten Internetplattformen begünstigt. 
 
 Die Verbindung von antiökologischer Propaganda und antiliberaler Polarisierung ist ein Hinweis darauf, dass es Zusammenhänge zwischen den ökologischen Krisen und der Krise der Demokratie gibt. 
 
-Welche maßnahmen sicherstellen, dass sich die antiwissenschaftliche Propaganda und damit zugleich auch die bewusste Polarisierung nicht durchsetzen, ist einer der schwierigsten unter den schwierigen Fragen, vor die die ökologischen Krisen uns stellen. ein instrument ist mit sicherheit die Förderung unabhängiger Plattformen. Eine öffentliche Förderung von offenen Online-Plattformen unterbleibt leider noch weitgehend. Hinzu müssen aber auch Aktionen gegen die Eigentümerinnen und eigentümer bzw. die Sponsorinnen und Sponsoren wissenschaftsfeindlicher Propaganda kommen. Zivilbevölkerung und NGOs haben gerade hier Aufgaben, die nicht von staatlichen Stellen und auch nicht von gewinnabhängigen Firmen übernommen wirden können.
+Für diese Gruppen ist es charakteristisch, dass sie vor der Spaltung der Gesellschaft warnen und sie zugleich betreiben. Die Polarisierung ist dabei vor allem ein mediales Phänomen, sie gehört zu einer Gegenöffentlichkeit, die sich gegen die Öffentlichkeit der demokratischen, liberalen Gesellschaft abdichtet. 
 
+### Polarisierung als Falle für den ökologischen Diskurs
 
+Dieser wissenschaftsfeindliche Formation steht in einem strikten Gegesatz zur allen ökologischen Gruppierungen. Beide verbindet aber die Gegnerschaft zum liberalen Entwicklungsmodell und das Verlangen nach radikalen Änderungen. Die rechtspopulistischen Kräfte übernehmen Protestformen aus der Ökologiebewegung - oft mit mehr Erfolg als ihre Erfinder.
 
-Diskurskultur und Polarisierung
+Die Klimabewegung und die Ökologiebewegung insgesamt haben keine Chance sich politisch durchzusetzen, wenn sie die Polarisierung betreiben, von der die populistische Rechte lebt. Sie muss auf eine nichtpolarisierende Diskurskultur setzen. Damit steht sie aber vor der ungeheuer schwierigen Aufgabe, inhaltlich keine falschen Kompromisse zu machen. Sie muss klar machen, dass die Radikalität ihrer Forderungen das Ergebnis einer bis heute fortgesetzten falschen Entwicklung ist und nicht einer bewusst betriebenen Polarisierung. Je tiefgreifender die geforderten Veränderungen sind, desto inklusiver muss der Diskurs sein, mit diese Veränderungen begründet werden. 
 
-Es sprechen viele Indizien dafür, dass die Polarisierung zwischen liberalen und identitären Diskursen mit einer Krise der prodiktivistischen Diskurse zusammenhängt, mit der Unerträglichkeit des Unvermeidlichen, dass sie uns predigen. Diesen Zusammenhang möche ich nur hypothetisch behaupten - Bruno Latour schreibt über ihn in seinem terrestrischen Manifest. Ich möchte hier begründen, warum ich eine ökologische Diskurskultur für notwendig halte und was sie auszeichen könnte. Daraus ergibt sich dann hoffentlich auch, wie sich mit ihr aus der Sackgasse der Polarisierung herauskommen kann. 
+### Zerstörung des öffentlichen Diskurses als Gefahr für die Demokratie
 
-Die ökologische Diskurskultur, die ich zu charakterisieren versucht habe, öffnet lokale Handlungsräume. Sie akzeptiert die Unausweichlichkeit des globalistischen Diskurses nicht. Damit ist sie auch eine Alternative zu den identitären Diskursen, die Fakten bewusst und gezielt verfälschen. 
+Zu unserer Demokratie gehört die Pressefreiheit, und zur Pressefreiheit gehört es, dass die Handelnden nicht die direkt politisch Handelnden. Zur pressefreiheit gehört auch, dass journalistische Arbeit unabhängig von Wirtschaftsinteressen ist. Hier werden die Grundpfeiler der Demokratie zu Balken im Auge der Demokratinnen und Demokraten. Pressefreit und  Meinungsfreiheit werden benutzt, um Propaganda zu verbreiten. Regulierungen, die die Unabhängigkeit von Medien sicherstellen, werden gezielt unterlaufen, und gleichzeitig arbeiten die wichtigsten Plattformen für die Verbreitung von Inhalten weitgehend oder völlog unabhängig von jeder Regulierung. 
 
-
-## Literatur
