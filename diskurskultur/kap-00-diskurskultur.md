@@ -1,5 +1,14 @@
 ## 6 Vorschläge für eine ökologische Diskurskultur 
 
+
+1. Eigenständigkeit des ökologischen Diskurses betonen und Hegemonie anstreben
+2. Politik und Erdsystemwissenschaften vermitteln
+3. Sich der epistemic crisis und der ideologischen Polarisierung widersetzen
+4. Lokalisiert, aber nicht territorial argumentieren
+5. Die politisch Handelnden nicht anthropozentrisch definieren
+6. Neue Formen der politischen Repräsentation durchsetzen
+
+
 Diskurskultur und ökologische Politik
 
 
@@ -14,7 +23,7 @@ Auf der anderen Seite des Grabens werden die Alarmrufe der Wissenschaft und der 
 
 Während Klima- und Ökologiebewegung hier, orthodoxe Politik dort durch einen Graben getrennt werden, über den man sich etwas zurufen kann, trennt eine Mauer beide Diskursformationen von den Diskursen der Populisten und Klimaleugner, die weder von den demokratischen Parteien noch von der Wissenschaft erreicht werden. Um in Bild zu bleiben: Die beiden Seiten dieser Mauer kommunizieren nur durch Geschrei. Dieses dritte Lager hat aber in fast allen westlichen Ländern ein erhebliches Gewicht. Große Teile der traditionellen Politik bemühen sich intensiver um Unterstützung dieses Lagers als um die zahlenmäßg oft kleinere Klimabewegung. Die Rebellion, die radikale Teile der Klimabewegung ausgerufen haben, findet um Dimensionen weniger Zulauf als die Rebellionen, die Impfgegner und Pegida-anhänger angezettelt haben, mit publizistischer Unterstützung durch Organe, die mit der gewohnten demokratischen Öffentlichkeit nur dem Anschein nach verwandt sind. 
 
-Ich möchte in diesem Aufsatz nicht versuchen den Graben zuzuschütten, von dem ich zu Anfang gesprochen habe. Ich gehöre selbst auf die Seite der Klima- und Ökologiebewegung und würde ihr eher zu wenig, nicht zu viel Radikalität vorwerfen. Ich möchte stattdessen ein Brett über den Graben schieben, über das man sich auf die andere begeben kann, die ich als traditionelle demkratische Diskurskultur bezeichne. Ich bin nicht sicher, wie viel dieser Graben mit der Mauer zu tun hat, die den gewohnten demokratischen Diskurs von den identitären Diskursen trennt. Aber ich möchte abschließend wenigstens die Hypothese formulieren, dass diese Mauer mit einerVerengung des liberalen Diskursfeldes zu tun hat, auf die die Vertreterinnen und Vertreter der ökologischen Demokratie mit der öffnung eines neuen Feldes reagieren, das genau diese Mauer verbergen soll.
+Ich möchte in diesem Aufsatz nicht versuchen den Graben zuzuschütten, von dem ich zu Anfang gesprochen habe. Ich gehöre selbst auf die Seite der Klima- und Ökologiebewegung und würde ihr eher zu wenig, nicht zu viel Radikalität vorwerfen. Ich möchte stattdessen ein Brett über den Graben schieben, über das man sich auf die andere begeben kann, die ich als traditionelle demkratische Diskurskultur bezeichne. Ich bin nicht sicher, wie viel dieser Graben mit der Mauer zu tun hat, die den gewohnten demokratischen Diskurs von den identitären Diskursen trennt. Aber ich möchte abschließend wenigstens die Hypothese formulieren, dass diese Mauer mit einerVerengung des liberalen Diskursfeldes zu tun hat, auf die die Vertreterinnen und Vertreter der ökologischen Demokratie mit der öffnung eines neuen Feldes reagieren, das Gegenteil der Abschottung durch eine Mauer.
 
  
 

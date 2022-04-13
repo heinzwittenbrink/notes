@@ -8,6 +8,21 @@ In Robinsons Roman siegen letztlich auch Demokratie und internationale Kooperati
 
 Robinsons Roman ist keine Verherrlichung des Terrors sondern eine Warnung. Je zerstörerischer die ökologischen Krisen werden, desto mehr Gewalt werden sie hervorrufen. 
 
+### Demokratischer Diskurs und Gründe für das Nichthandeln
+
+Es gibt viele Erklärungen dafür, warum auf Krisen, die die größte Herausforderung in der Geschichte der Menschheit darstellen, nicht oder bei weitem nicht in ausreichendem Maß reagiert wurde. Einen zentrale Rolle spielen dabei politische und ökonomische Macht. Eine Forschungsgruppe um Kevin Anderson hat gerade die Literatur zu den Machtverhältnissen untersucht, die Handeln gegen die Klimakrise bisher erfolgreich verhindern [@stoddardThreeDecadesClimate2021]. Die wirtschaftlich Mächtigen, die von der Fossilenergie profitieren, betreiben in großem Umfang Propaganda, um eine Politik gegen die Klimakatastrophe zu verhindern [@gotzeKlimaschmutzlobbyWiePolitiker2020]. Machtpolitik und Propaganda werden von Abwehrmechanismen unterstützt, die die Klimakrise auf der psychologischen und symbolischen Ebene lösen und damit Handeln in der Wirklichkeit verhindern [@steurerClimateDissonanceTheory2021]. Durch ihren Umfang und durch ihre Langfristigkeit stellt uns die Klimakrise vor einzigartige ethische Dilemmata, die sich nur durch weltweite politische Institutionen auflösen lassen [@gardinerPerfectMoralStorm2006]. 
+
+Aber auch wenn klar ist, warum gehandelt werden muss und was zu tun ist: Bisher gibt es nur wenige politische Prozesse, die tatsächlich Erfolg gegen die ökologischen Krisen hatten. Auch wenn es mit Macht und Wirtschaft verhindern, das sie Klimakrise wenigstens gemildert wird: die Veränderung der Wirtschaft und der gesellschaftlichen Machtverhältnisse ist abhängig von politischem Handeln und dieses ist auf Diskurs angewiesen. 
+
+Unsere politischen Diskurse zu den ökologischen Krisen scheitern. Sie 
+
+- heben die Besonderheiten der ökologischen Thematik zu wenig und betonen nicht deren Priorität,
+- schaffen zu wenig Vermittlung zwischen wissenschaftlichen und politischen Diskursen
+- haben zu wenig Mittel gegen die *epistemic crisis* und die politisch-mediale Polarisierung
+- finden zu wenig lokale Strategien gegen die ökologischen Krisen
+- sind zu sehr darauf bezogen, was Menschen dürfen und nicht dürfen, und zu wenig auf regenerative Bündnisse mit der *Natur*
+- sind zu sehr auf parlamentarische Verfahren und inkrementelle Änderungen fixiert und zu wenig auf disruptive politische Formate,
+
 Klima- und Erdsystemwissenschaften sagen eindeutig, dass die Lebensgrundlagen der Menschheit bedoht sind. 
 
 Die Demokratien haben es bisher nicht geschafft, darau adäquat zu reagieren. 
@@ -56,6 +71,3 @@ Die Natur, die Umwelt, das Außen der menschlichen Gesellschaft, von dem wir abh
 
 Der Weltklimarat unterscheidet bei den Maßnahmen, die angesichts der globalen Erhitzung nötig sind, zwischen Anpassunng, Adaptation, und Milderung, Mitigation. Beide sind im Augenblick unzureichend. Beide sind, was das Klima betrifft, nicht nur inkrementell möglich.
 
-### Demokratischer Diskurs und Gründe für das Nichthandeln
-
-Es gibt viele Erklärungen dafür, warum auf Krisen, die die größte Herausforderung in der Geschichte der Menschheit darstellen, nicht oder bei weitem nicht in ausreichendem Maß reagiert wurde. Einen zentrale Rolle spielen dabei politische und ökonomische Macht. Eine Forschungsgruppe um Kevin Anderson hat gerade die Literatur zu den Machtverhältnissen untersucht, die Handeln gegen die Klimakrise bisher erfolgreich verhindern [@stoddardThreeDecadesClimate2021]. Die wirtschaftlich Mächtigen, die von der Fossilenergie profitieren, betreiben in großem Umfang Propaganda, um eine Politik gegen die Klimakatastrophe zu verhindern [@gotzeKlimaschmutzlobbyWiePolitiker2020]. Machtpolitik und Propaganda werden von Abwehrmechanismen unterstützt, die die Klimakrise auf der psychologischen und symbolischen Ebene lösen und damit Handeln in der Wirklichkeit verhindern [@steurerClimateDissonanceTheory2021]. Durch ihren Umfang und durch ihre Langfristigkeit stellt uns die Klimakrise vor einzigartige ethische Dilemmata, die sich nur durch weltweite politische Institutionen auflösen lassen [@gardinerPerfectMoralStorm2006]. 
