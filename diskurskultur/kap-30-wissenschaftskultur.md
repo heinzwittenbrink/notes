@@ -10,9 +10,19 @@ Die Stadt Graz erarbeitet gerade einen Klimaplan. Zum ersten Mal wurde systemati
          - Lokale Indizien: Die hervorragende Forschung vor Ort hat für die städtische Politik kaum Konsequenzen
          - Schaffen wir es, die Transformation der Region zu einem Ziel der akademischen Forschung zu machen?
 
- Wissenschaftlichkeit
+Eine politische Diskurskultur ist eine Kultur des Sprechens über öffentliche Angelegenheiten. Eine ökologische politische Diskurskultur befindet sich im Augenblick in einem nicht leicht zu beschreibenden Territorium zwischen wissenschaftlichen Diskurskulturen auf der einen Seite und den bestehenden politischen Diskursen auf der anderen. Dabei gehört es zum gängigen Verständnis von Wissenschaft, dass sie unpolitisch ist, also nicht politisch Stellung bezieht.
 
-Die Voraussetzung einer ökologischen Diskurskultur ist es, die Fakten über die ökologische und soziale Situation ernst zu nehmen und die wissenschaftlichen Erkenntnisse dazu nicht zu ignorieren. Es geht um die Veränderungen des Erdsystems, vor allem um die Veränderungen in unserer Nähe.
+Die Politik bezieht sich auf *die* Wissenschaft einerseits positiv. Sie benutzt sie zur Legitimierung. Andererseits definiert sie sich aber auch durch ihren Abstand von der Wissenschaft. Die Klimapolitik der Stadt Graz zeigt diese Beziehungen gut. Die Stadt bemüht sich um wissenschaftliche Beratung, allerdings bisher immer nur punktuell. Die Wissenschaftlerinnen und Wissenschaftler in Graz und ihre Institutionen nehmen ihrerseits nur selten und oft nur indirekt politisch Stellung. Wenn es solche Stellungnahmen gibt, führt das oft zu der Gegenargumentation, dass die Wissenschaft selbst politisiert sei. rw
+
+Die konkrete Politik der Stadt wird dabei noch von einer dritten Ebene bestimmt, der Verwaltung. Auch hier gibt es Expertenwissen. Die Fachleute in der Verwaltung übersetzen politische und wissenschaftliche Aussagen in administrative Maßnahmen und Vorgaben. So sind die Arbeiten am Klimaplan der Stadt Graz vor allem eine Angelegenheit der zuständigen Abteilungen der Stadtverwaltung. Damit verbunden ist, dass Bürgerinnen und Bürger als Nichtfachleute an den entsprechenden Diskursen kaum teilnehmen können. 
+
+Eine ökologische Diskurskultur soll es ermöglichen, dass sich eine politische Einheit, also z.B. die Stadt Graz, verständigt und durch diese Verständigung auch über sich selbst verständigt. Dazu 
+
+- muss sich die Wissenschaft konkret in die Politik einmischen, nicht durch Statements, sondern durch konkrete Gestaltung
+- müssen abgestimmte Vorgaben für alle überprüfbar sein und also auch allen kommuniziert werden
+- müssen die politischen Stakeholder ihre Politik in einem *erdsystemwissenschaftlichen Diskurs* neu definieren - möglichst auch im Diskurs miteinander. 
+
+Die Voraussetzung einer ökologischen Diskurskultur ist es, die Fakten über die ökologische und soziale Situation ernst zu nehmen und die wissenschaftlichen Erkenntnisse dazu nicht zu ignorieren. Es geht um die Veränderungen des Erdsystems, vor allem um die Veränderungen in unserer Nähe. Wir brauchen eine Bestimmung des politischen Raums, eine von den Ergebnissen der Erdsystemwissenschaft bestimmte Kartierung der politisch relevanten Zonen und eine Diskussion über konkrete Szenarien. Die diskussion dieser neuen politischen Landschaft und dieser Szenarien ist der Inhalt eines ökologischen Diskurses.
 
 In unserer demokratischen Kultur trennt eine Graben die politischen Debatten von den Naturwissenschaften. Die Naturwissenschaften sind dadurch definiert, dass sie unpolitisch sind, während politische Debatten von Standpunkten und Werten abhängig sind.
 

@@ -1,12 +1,12 @@
 ## 6 Vorschläge für eine ökologische Diskurskultur 
 
 
-1. Eigenständigkeit des ökologischen Diskurses betonen und Hegemonie anstreben
-2. Politik und Erdsystemwissenschaften vermitteln
-3. Sich der epistemic crisis und der ideologischen Polarisierung widersetzen
-4. Lokalisiert, aber nicht territorial argumentieren
-5. Die politisch Handelnden nicht anthropozentrisch definieren
-6. Neue Formen der politischen Repräsentation durchsetzen
+1. Eigenständigkeit des ökologischen Diskurses betonen und Hegemonie anstreben (Ökologie und traditionelle Politik - Definition im Verhältnis zum bestehenden Diskurs)
+2. Politik und Erdsystemwissenschaften vermitteln (Politik und Wissenschaft - Neuvermessung des politischen terrains)
+3. Sich der epistemic crisis und der ideologischen Polarisierung widersetzen (Diskurs und Öffentlichkeit - entpolarisierung)
+4. Lokalisiert, aber nicht territorial argumentieren (Globalität und Lokalität)
+5. Die politisch Handelnden nicht anthropozentrisch definieren (Regeneration)
+6. Neue Formen der politischen Repräsentation durchsetzen (Disruption)
 
 
 Diskurskultur und ökologische Politik
