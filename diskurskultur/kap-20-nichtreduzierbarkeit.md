@@ -3,12 +3,6 @@
 ## Lässt sich ein ökologisches Politik-Paradigma nach dem liberalen und dem sozialistischen formulieren?
 
 
- **(Stichwort: Besonderheit der ökologischen Thematik) Relativiert die politische und diskursive praxis die ökologische thematik zu sehr? Worin besteht das Besondere der ökologischen Diskurse?** Nichtreduzierbarkeit. Ökologische Politik braucht eine eigene Diskurskultur, die sich nicht auf eine der vorhandenen Diskurskulturen reduzieren lässt.
- **These: Ökologie darf nicht als Zusatzthema behandelt werden, sondern ist eine Dimension aller politischen Entscheidungen. Wir müssen für eine hegemoniale Position dieses Themas kämpfen **
-         - Globale Indizien: Ökologische Politik wird entweder einem im weitesten Sinn liberalen oder sozialistischen Politikkonzept untergeordnet
-         - Lokale Indizien: Themen der Parteien und der politischen Diskurse
-         - Schaffen wir es, eine Diskurshegemonie für ökologische Themen herzustellen?
-
 
 Wie die Stadt Graz gerade das Thema *Klima* angeht zeigt, wie ein ökologisches Thema in die Kategorien der politischen Arbeit übersetzt wird - man könnte auch sagen: Wie ein ökologisches Thema *geframet* wird. Für die meisten auf der Linken ist das Klima ein soziales Thema. Für die Liberalen und Konservativen ist es vor allem ein wirtschaftliches Thema. Die Grünen thematisieren als einzige Partei ökologische Themen als solche, aber auch sie übersetzen sie oft in den liberalen oder in ein sozialdemokratisch-/sozialistisches Framework.
 
@@ -40,4 +34,10 @@ ich habe oben vom liberalen und vom sozialistischen Diskurs gesprochen, und kein
 
 Zu den Ressourcen, die wir haben, um auf aktuelle Krisen zu reagieren, gehören ethische, politische und religiöse Traditionen. Eine zeitgemäße Diskurskultur muss an diese Traditionen anschließen. In diesen Traditionen finden wir auch Sprachen und Interprtationspraktiken, durch die wir auf lokale Verhältnisse, auf die Ökosysteme und Landschaften in unserer Nähe reagieren können. 
 
+---
 
+Wichtige Beiträge zur Begründung einer ökologischen Politik, die das liberale und das sozialistische Politikparadigma ablösen, stammen von Bruno Latour und Philippe Charbonnier. Charbonnier stützt sich dabei auf eine ausführliche Analyse der neuzeitlichen politischen und ökonomischen Theorien. Für Latours Ansatz ist das Konzept *Gaia* zentral.
+
+Das Konzept eines hegemonialen Diskurses als Voraussetzung für die Gewinnung politischer Macht geht vor allem auf Gramsci zurück. Kallis und … behandeln es in ihrem Ausatz *Degrowth and the State*. Auch Latour und Schulz greifen darauf in ihrem Memo zu den geosozialalen Klassen zurück. 
+
+Zum Hintergrund meiner Überlegungen gehört die Kritik an ökonomistischen Bewertungen der Folgen der ökologischen Katastrophen. So wichtig diese Überlegungen sind, so unzureichend sind ökonomische Bewertungen zur begründung des Handelns gegen die Klimakrise. Weder lassen sich die Risiken beziffern, die damit verbunden sind, dass der *safe operating space* des Holozän verlassen wird, noch lässt sich der Wert z.B. von Tier- und Pflanzenarten ökonomisch beziffern. 

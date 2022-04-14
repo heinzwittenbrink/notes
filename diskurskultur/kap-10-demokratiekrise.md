@@ -1,73 +1,50 @@
-## Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
+# Ökologische Diskurskultur
 
-Kim Stanley Robinson schildert in *The Ministry for the Future*, wie es die Menschheit zwischen 2030 und 2050 schafft, die Klimakrise zu beherrschen. Nach katastrophalen Hitzewellen entscheiden sich die Staaten der Welt zur Kooperation, reduzieren die Emissionen radikal und überlassen eine Hälfte der Territorien der Erde wieder der Natur. Der CO2-Gehalt der Atmospäre beginnt zu sinken. In den 50er Jahren des 21. Jahhunderts können die Menschen hoffen, dass sich die ökologische Lage des Planeten in ihrer Zukunft verbessern und nicht noch weiter verschlechtern wird. 
+Kim Stanley Robinson schildert in *The Ministry for the Future*, wie es die Menschheit zwischen 2030 und 2050 schafft, die Klimakrise zu beherrschen. Nach katastrophalen Hitzewellen entscheiden sich die Staaten der Welt zur Kooperation, reduzieren die Emissionen radikal und überlassen eine Hälfte der Territorien der Erde wieder der Natur. Der CO2-Gehalt der Atmospäre beginnt zu sinken. In den 50er Jahren des 21. Jahrhunderts können die Menschen hoffen, dass sich die ökologische Lage des Planeten in ihrer Zukunft verbessern und nicht noch weiter verschlechtern wird. 
 
 Diese positive Utopie kommt nicht nur auf friedlichem Wege zustande. Nachdem Millionen Menschen in Indien der Hitze zum Opfer gefallen sind, formiert sich dort die Terrororganisation *Kinder der Kali*. Auch das Ministerium für die Zukunft, das weltweit den Kampf gegen die Klimakatastrophe anführt, hat einen *schwarzen Arm*. Zu den Mitteln des Kampfes für das Klima gehören Attentate auf Exponenten der fossilen Wirtschaft. Drohnenanschläge auf Flugzeuge beenden weltweit die Zivilluftfahrt mit fossilen Brennstoffen.
 
-In Robinsons Roman siegen letztlich auch Demokratie und internationale Kooperation. Aber die friedlichen Mittel der Demokratie allein haben nicht ausgereicht, um eine Existenzkrise der Menschheit zu lösen. Terror und Alleingänge von Staaten – massive Schwefelinjektionen in die Atmosphäre durch Indien – sind nötig um die Fossilindustrie und mit ihr ganzes Wirtschaftssystem zu besiegen, das große Teile der Erde unbewohnbar macht.  
+In Robinsons Roman siegen letztlich auch Demokratie und internationale Kooperation. Aber die friedlichen Mittel der Demokratie allein haben nicht ausgereicht, um die Existenzkrise der Menschheit zu lösen. Terror und Alleingänge von Staaten – massive Schwefelinjektionen in die Atmosphäre durch Indien – sind nötig um die Fossilindustrie und mit ihr ganzes Wirtschaftssystem zu besiegen, das große Teile der Erde unbewohnbar macht.  
 
 Robinsons Roman ist keine Verherrlichung des Terrors sondern eine Warnung. Je zerstörerischer die ökologischen Krisen werden, desto mehr Gewalt werden sie hervorrufen. 
 
-### Demokratischer Diskurs und Gründe für das Nichthandeln
+###  Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
 
-Es gibt viele Erklärungen dafür, warum auf Krisen, die die größte Herausforderung in der Geschichte der Menschheit darstellen, nicht oder bei weitem nicht in ausreichendem Maß reagiert wurde. Einen zentrale Rolle spielen dabei politische und ökonomische Macht. Eine Forschungsgruppe um Kevin Anderson hat gerade die Literatur zu den Machtverhältnissen untersucht, die Handeln gegen die Klimakrise bisher erfolgreich verhindern [@stoddardThreeDecadesClimate2021]. Die wirtschaftlich Mächtigen, die von der Fossilenergie profitieren, betreiben in großem Umfang Propaganda, um eine Politik gegen die Klimakatastrophe zu verhindern [@gotzeKlimaschmutzlobbyWiePolitiker2020]. Machtpolitik und Propaganda werden von Abwehrmechanismen unterstützt, die die Klimakrise auf der psychologischen und symbolischen Ebene lösen und damit Handeln in der Wirklichkeit verhindern [@steurerClimateDissonanceTheory2021]. Durch ihren Umfang und durch ihre Langfristigkeit stellt uns die Klimakrise vor einzigartige ethische Dilemmata, die sich nur durch weltweite politische Institutionen auflösen lassen [@gardinerPerfectMoralStorm2006]. 
-
-Aber auch wenn klar ist, warum gehandelt werden muss und was zu tun ist: Bisher gibt es nur wenige politische Prozesse, die tatsächlich Erfolg gegen die ökologischen Krisen hatten. Auch wenn es mit Macht und Wirtschaft verhindern, das sie Klimakrise wenigstens gemildert wird: die Veränderung der Wirtschaft und der gesellschaftlichen Machtverhältnisse ist abhängig von politischem Handeln und dieses ist auf Diskurs angewiesen. 
-
-Unsere politischen Diskurse zu den ökologischen Krisen scheitern. Sie 
-
-- heben die Besonderheiten der ökologischen Thematik zu wenig und betonen nicht deren Priorität,
-- schaffen zu wenig Vermittlung zwischen wissenschaftlichen und politischen Diskursen
-- haben zu wenig Mittel gegen die *epistemic crisis* und die politisch-mediale Polarisierung
-- finden zu wenig lokale Strategien gegen die ökologischen Krisen
-- sind zu sehr darauf bezogen, was Menschen dürfen und nicht dürfen, und zu wenig auf regenerative Bündnisse mit der *Natur*
-- sind zu sehr auf parlamentarische Verfahren und inkrementelle Änderungen fixiert und zu wenig auf disruptive politische Formate,
-
-Klima- und Erdsystemwissenschaften sagen eindeutig, dass die Lebensgrundlagen der Menschheit bedoht sind. 
-
-Die Demokratien haben es bisher nicht geschafft, darau adäquat zu reagieren. 
-
-Zu den Folgen dieser Unfähigkeit gehört nicht nur die ökologische Katastrophe, sondern sie gefährden auch die Demokratie. Wenn es nicht gelingt, Handlungsfähigkeit gegenüber den ökologischen Krisen herzustellen, dann deligitimiert das die Demokratie. Ich möchte hier fragen, wo sich unsere Demokratien verändern müssen, um *Anpassung und Minderung* Adaptation und Mitigation angesichts der Klimakrise und der übrigen ökologischen Krisen sicherzustellen. 
-
-Da man Themen von den Dimensionen der Klimakrise und der Krise der westlichen Demokratie nicht in einem Magazinartikel behandeln kann, versuche ich eher, einen Einblick in vorhandene Diskussionen zu geben - also Scheinwerfer vorzuschlagen, mit denen man einen Überblick über die Diskussionen und Debatten zu dieser Thematik und auf einige Querverbindugen zwischen ihnen 
-
-Ich möchte deshalb 
-
-Ich versuche in diesem Text Fragen nach dem Verhältnis der Demokratie zu ökologischen Krisen zu stellen, die die Existenz der menschlichen Zivilisation bedrohen. Alle diese Fragen beziehen sich auf die Reformierbarkeit unserer demokratischen Kultur angesichts der ökologischen Herausforderungen. Ich kann diese Fragen nicht beantworten. Die Antworten werden von den politischen Entwicklungen der kommenden Jahrzehnte gegeben werden. Ich habe versucht diese Fragen so zu formulieren, dass sich mit ihnen wichtige Aspekte von Diskussionen zur demokratischen Kultur angesichts der ökologischen Krise erfassen lassen. 
-
-Die erste der acht Fragen ist übergreifend, die anderen sieben sind Unterfragen zu ihr: 
-
-1. Ist die Demokratie unfähig, ökologische Katastrophen zu verhindern?
-2. Muss sich das Verhältnis von unpolitischer Wissenschaft und pluralistischer demokratischer Entscheidungsfindung ändern?
-3. Lässt sich nach dem liberalen und dem sozialistischen ein ökologisches Politik-Paradigma formulieren?
-4. Scheitert unser Modell der Pressefreiheit angesichts der wissenschaftsfeindlichen Propaganda?
-5. Blockiert die Globalisierung lokales demokratisches Handeln gegen die ökologische Krisen?
-6. Können nichtmenschliche Akteure, etwa Tier- und Pflanzenarten, Ökosysteme oder Landschaften zu politischen Subjekten werden?
-7. Ist ökologische demokratische Politik jenseits der parlamentarischen Demokratie möglich?
-8. Hängen ökologische Krisen und antidemokratische Tendenzen zusammen?
-
-Diese Fragen beziehen sich auf demokratische Einrichtungen, Praktiken und vor allem Diskurse. Sie berühren nur Aspekte der ökologischen Krisen und nicht ihre erkennbaren Ursachen. Es geht also nicht um eine Diskussion unseres Wirtschafts- und Gesellschaftssystems. Aber ohne Politik und ohne Diskurse lässt sich unsere Gesellschaft nicht verändern - deshalb ist es wichtig, nach den vorhandenen demokratischen Instrumenten und ihren grenzen zu fragen, gerade wenn man nicht vor allem das politische, sondern das Wirtschaftssystem verändern will. 
-
-Die ökologischen Krisen und die Dermokatie sind Menschheitsthemen, die man nicht in einem kurzen Ausatz abhandeln kann. Es geht hier nur um eine politische Standortsbestimmung - ich versuche, mich und andere in einer kaum überschaubaren  Masse von Diskussionen, Informationen und Konzepten zu orientieren.
-
-Überleben der Menschheit – Überleben der Demokratie. 9 Fragen und Hinweise auf Antworten
-
-1. **(Stichwort: Demokratiekrise) Sind die ökologischen Krisen demokratisch lösbar? Ist die die Krise der Demokratie, die wir gerade erleben, angesichts der ökologischen krisen nicht behebbar?** Ökologie und Demokratiekrise. Der demokratische Diskurs der letzten Jahrzehnte war nicht dazu in der Lage, das Risiko der größten Katastrophe in der Geschichte der Menschheit zu verhindern.
-            - Globale Indizien: Emissionsentwicklung, Präsenz der ökologischen Themen in der Öffentlichkeit
-            - Lokale Indizien: Demokratischer Diskurs über die Klimakrise in Graz/in der Steiermark
-            - Schaffen wir es hier in Graz und der Steiermark, einen Weg zum 1,5°-Ziel demokratisch zu vermitteln?
-
-### Planetare Grenzen und ökologische Politik
-
-Wir leben im Anthropozän. Wir wissen, dass die Voraussetzng für unser Leben von einem Erdsystem erzeugt wurden und werden, von dem unsere gesamte Existenz abhängig ist. Dieses Erdsystem stellt uns bisher einen *safe operating space* zur Verfügung, in dem sich die menschlichen Zivilisationen entwickeln konnten. Die ökologischen Krisen der Gegenwart bedrohen diesen Handlungsraum. Auch bisher war dieser Handlungsraum eine Voraussetzung politischen Handelns. Heute müssen wir diesen Handlungsraum schern und entwickeln, um überhaupt politisch handeln zu können.
+Wir leben im Anthropozän. Wir wissen, dass die Voraussetzng für unser Leben von einem Erdsystem erzeugt wurden und werden, von dem unsere gesamte Existenz abhängig ist. Dieses Erdsystem stellt uns bisher einen *safe operating space* zur Verfügung, in dem sich die menschlichen Zivilisationen entwickeln konnten. Die ökologischen Krisen der Gegenwart bedrohen diesen Handlungsraum. Auch bisher war dieser Handlungsraum eine Voraussetzung politischen Handelns. Heute müssen wir diesen Handlungsraum sichern und entwickeln, um überhaupt politisch handeln zu können.
 
 Im Anthropozän sind die bisher rein *natürlichen* Prozesse, von denen die Existenz der menschlichen Gesellschaften abhängt, nicht mehr von Menschen unabhängig. Sie werden von Menschen fundamental beeinflusst, und sie drohen dabei so aus gewohnten Gleichgewichtsszuständen herauszufallen, dass sie menschliche Gesellschaften gefährden, möglicherweise sogar die Existenz der Zivilisation überhaupt bedrohen. 
 
-Die Klimakrise ist das am meisten diskutierte Beispiel für solche Prozesse, und wahrscheinlich das inwischen am beste untersuchte. Der gerade veöffentlichte Bericht des Weltklimarats stellt fest, dass die Fortsetzung der aktuellen Politik dazu führen wird, dass die Temperaturen am Ende dieses Jahrhunderts um etwa 2,7 °Celsius über den Temperaturen vor der Industrialisierung liegen werden. Dieser Temperaturunterschied mag gering wirken, aber er bedeutet für alle Ökosysteme auf der Erde Veränderungen, die bei weitem drastischer sind als am Ende der letzten Eiszeit und die überdies in einem Bruchteil der Zeit geschehen, das in der Erdgeschichte für solche Veränderungen zur Verfügung stand. Vür über drei Millionen Jahren, im mittlereren Pliozän, waren CO2-Gehalt und Temperaturen ähnlich hoch [@masson-delmotteClimateChange20212021 p. 1891].
+Die Klimakrise ist das am meisten diskutierte Beispiel für solche Prozesse, und das am beste untersuchte. Der gerade veöffentlichte Bericht des Weltklimarats stellt fest, dass die Fortsetzung der aktuellen Politik dazu führen wird, dass die Temperaturen am Ende dieses Jahrhunderts um etwa 2,7 °Celsius über den Temperaturen vor der Industrialisierung liegen werden. Dieser Temperaturunterschied mag gering wirken, aber er bedeutet für alle Ökosysteme auf der Erde Veränderungen, die bei weitem drastischer sind als am Ende der letzten Eiszeit und die überdies in einem Bruchteil der Zeit geschehen, das in der Erdgeschichte für solche Veränderungen zur Verfügung stand. Vor über drei Millionen Jahren, im mittlereren Pliozän, waren CO2-Gehalt und Temperaturen ähnlich hoch [@masson-delmotteClimateChange20212021 p. 1891].
 
-Warum ist eine ökologische Diskurskultur nötig. Ihre Vertreterinnen und Vertreter sind sich darin einig, dass die demokratische Kultur, die sich in den letzten Jahrzehnten etabliert hat, nicht dazu in der Lage war, die ökologischen Katastrophen aufzuhalten, die wir bereits erleben und die von der gesamten ernst zu nehmenden Wissenschaft pronostiziert werden. 
+### Demokratischer Diskurs und Gründe für das Nichthandeln
 
-Die Natur, die Umwelt, das Außen der menschlichen Gesellschaft, von dem wir abhängen, wird in unserer demokratischen Kultur nicht oder viel zu wenig repräsentiert&mdash;und das gilt für die politischen Diskussionen im engeren Sinn wie für die Medien. Die Erkenntnisse des Weltklimarats werden seit Jahrzehnten immer dramatischer. Trotzdem erreichen die Treibhausgasemissionen nahezu jedes Jahr ein neues Rekordhoch. Es werden zwar Beschlüsse über weit entfernte Klimaziele gefasst, aber aktuell schaffen es nur wenige Länder ihre Emissionen zu reduzeren. 
+Klima- und Erdsystemwissenschaften sagen eindeutig, dass die Lebensgrundlagen der Menschheit bedoht sind. Die Demokratien haben es bisher nicht geschafft, darau adäquat zu reagieren.  Zu den Folgen dieser Unfähigkeit gehört nicht nur die ökologische Katastrophe, sondern sie gefährdet auch die Demokratie. Wenn es nicht gelingt, Handlungsfähigkeit gegenüber den ökologischen Krisen herzustellen, dann deligitimiert das die Demokratie. 
 
-Der Weltklimarat unterscheidet bei den Maßnahmen, die angesichts der globalen Erhitzung nötig sind, zwischen Anpassunng, Adaptation, und Milderung, Mitigation. Beide sind im Augenblick unzureichend. Beide sind, was das Klima betrifft, nicht nur inkrementell möglich.
+Es gibt viele Erklärungen dafür, warum auf Krisen, die die größte Herausforderung in der Geschichte der Menschheit darstellen, nicht oder bei weitem nicht in ausreichendem Maß reagiert wurde. Einen zentrale Rolle spielen dabei politische und ökonomische Macht. Eine Forschungsgruppe um Kevin Anderson hat gerade die Literatur zu den Machtverhältnissen untersucht, die Handeln gegen die Klimakrise bisher erfolgreich verhindern [@stoddardThreeDecadesClimate2021]. Die wirtschaftlich Mächtigen, die von der Fossilenergie profitieren, betreiben in großem Umfang Propaganda, um eine Politik gegen die Klimakatastrophe zu verhindern [@gotzeKlimaschmutzlobbyWiePolitiker2020]. Machtpolitik und Propaganda werden von Abwehrmechanismen unterstützt, die die Klimakrise auf der psychologischen und symbolischen Ebene lösen und damit Handeln in der Wirklichkeit verhindern [@steurerClimateDissonanceTheory2021]. Durch ihren Umfang und durch ihre Langfristigkeit stellt uns die Klimakrise vor einzigartige ethische Dilemmata, die sich nur durch weltweite politische Institutionen auflösen lassen [@gardinerPerfectMoralStorm2006]. 
+
+Aber auch wenn klar ist, warum gehandelt werden muss, was zu tun ist, und was das Handeln blockiert: Bisher gibt es nur wenige politische Prozesse, die Erfolg gegen die ökologischen Krisen hatten. Auch wenn Machtgruppen verhindern, das sie Klimakrise wenigstens gemildert wird: die Veränderung der Wirtschaft und der gesellschaftlichen Machtverhältnisse ist abhängig von politischem Handeln. 
+
+Bruno Latour bezeichnet es als Aufgabe des politischen Diskurses, ein Wir herzustellen. Das Wir, das politisch handelt, existiert nicht ohne Diskurs. Das richtige politische Sprechen  – das Aussprechen der politischen Wahrheit –  ist, so Latour, eine Bedingung des richtigen politischen Handelns. Dabei spielt das Verweisen auf Tatsachen nur eine geringe Rolle. Wichtiger ist es, die Bedingungen für die Stiftung eines Wir so zu erfassen und zu formulieren, dass dieses Wir zustande kommt. Es wird nie auf Dauer bestehen, es ist auf immer wieder neue und erneuerte Diskurse angewiesen. 
+
+Bisher ist es nicht gelungen, das Wir des demokratischen Diskurses und das Wir des ökologischen Diskurses wirksam miteinander zu verbinden. Die Natur, die Umwelt, das Außen der menschlichen Gesellschaft, von dem wir abhängen, wird in unserer demokratischen Kultur nicht oder viel zu wenig repräsentiert&mdash;und das gilt für die politischen Diskussionen im engeren Sinn wie für die Medien. Wir müssen eine Diskurskultur entwickele, die nicht nur Tatsachen benennt und an die Handelnden appelliert, sondern die viel mehr gemeinsames Handeln erlaubt, die also ein Wir stiftet, dass gegen die ökologischen Krisen aktiv wird. 
+
+### Der Graben zwischen politischem und ökologischem Diskurs
+
+In unserem demokratischen Diskurs gibt es einen tiefen Graben – es sprechen zwei sehr unterschiedliche Formen eines Wir. Der Graben wird selten überbrückt, auch wenn sich Vertreterinnen und Vertreterinnen der beiden Lager, die er trennt, immer wieder gegenübersitzen. Er trennt Aktivistinnen und Aktivisten, Wissenschaftlerinnen und Wissenschaftler, die sich zu Klima- und Ökologiebewegung zählen, und die institutionalisierten Politik, große Teile des Journalismus und auch Expertinnen und Experten anderer Fachgebiete voneinander. Nur wenige in der Politik, vor allem Grüne, fühlen sich beiden Seiten zugehörig. Das bedeutet aber nicht, dass sie auf beiden Seiten akzeptiert werden. 
+
+Die Diskurse, die auf beiden Seiten dieses Grabens gehalten werden, unterscheiden sich radikal voneinander. Die Mitglieder der Klima- und Ökologiebewegung eint die Überzeugung, dass wir uns nicht nur auf eine globale ökologische Katastrophensituation zubewegen, sondern dass diese Katastrophen bereits begonnen haben. Sie alle gehen davon aus, dass uns nur eine ganz kurze Zeitspanne bleibt, um die schlimmsten Folgen ökologischer Fehlsteuerungen zu vermeiden. Sie kritisieren und sie protestieren, weil die offizielle Politik nur langsam auf diesen Alarm reagiert. 
+
+Auf der anderen Seite des Grabens werden die Alarmrufe der Wissenschaft und der Ökologiebewegung durchaus vernommen. Sie führen auch zu Änderungen in der Politik. Sie werden aber nicht als Anlass einer radikalen Kurskorrektur verstanden, sondern als Alarmrufe einer Lobbygruppe unter vielen. Das politische Geschäft und die Öffentlichkeit, in die dieses Geschäft eingebettet ist, unterscheidet sich für die offizielle Politik nicht grundlegend von dem, was wir als Politik gewohnt sind. 
+
+Während Klima- und Ökologiebewegung hier, orthodoxe Politik dort durch einen Graben getrennt werden, über den man sich etwas zurufen kann, trennt eine Mauer beide Diskursformationen von den Diskursen der Populisten und Klimaleugner, die weder von den demokratischen Parteien noch von der Wissenschaft erreicht werden. Um in Bild zu bleiben: Die beiden Seiten dieser Mauer kommunizieren nur durch Geschrei. Dieses dritte Lager hat aber in fast allen westlichen Ländern ein erhebliches Gewicht. Große Teile der traditionellen Politik bemühen sich intensiver um Unterstützung dieses Lagers als um die zahlenmäßg oft kleinere Klimabewegung. Die Rebellion, die radikale Teile der Klimabewegung ausgerufen haben, findet um Dimensionen weniger Zulauf als die Rebellionen, die Impfgegner und Pegida-anhänger angezettelt haben, mit publizistischer Unterstützung durch Organe, die mit der gewohnten demokratischen Öffentlichkeit nur dem Anschein nach verwandt sind. 
+
+Ich möchte in diesem Aufsatz nicht versuchen den Graben zuzuschütten, von dem ich zu Anfang gesprochen habe. Ich gehöre selbst auf die Seite der Klima- und Ökologiebewegung und würde ihr eher zu wenig, nicht zu viel Radikalität vorwerfen. Ich möchte stattdessen ein Brett über den Graben schieben, über das man sich auf die andere begeben kann, die ich als traditionelle demkratische Diskurskultur bezeichne. Ich bin nicht sicher, wie viel dieser Graben mit der Mauer zu tun hat, die den gewohnten demokratischen Diskurs von den identitären Diskursen trennt. Aber ich möchte abschließend wenigstens die Hypothese formulieren, dass eine öklogische Erweiterung und Neubegründung des demokratischen Diskurses den Boden, auf dem antidemokratischen Polarisierer ihre Mauer errichtet haben, weniger tragfähig macht.
+
+Ich möchte hier einige Themen und Aufgaben einer ökologischen Diskurskultur skizzieren. Sie ergeben sich aus der Zielsetzung, eine demokratische Antwort auf die großen ökologischen Krisen zu finden, und sie schließen ausdrücklich oder nicht ausdrücklich an die vielen Versuche an, politische Diskurse zu entwickeln, die diesen Krisen gerecht werden.
+
+
+
+
+
+
 
