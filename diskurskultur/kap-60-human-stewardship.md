@@ -1,8 +1,6 @@
 ## Können nichtmenschliche Akteure, etwa Tier- und Pflanzenarten, Ökosysteme oder Landschaften zu politischen Subjekten werden?
 
 
-**These: Die politisch Handelnden dürfen nicht mehr anthropozentrisch definiert werden.** 
-
 Unsere Demokratie ist anthropozentrisch definiert: die politisch Handelnden sind Menschen und Gruppen, und auch das Rechtssystem kenn bis auf wenige Ausnahmen nur die Rechte von Menschen und Vereinigungen von Menschen. Eine weitere Herausforderung der Demokratie im Anthropozän besteht darin, die Begrenztheit dieses Ansatzes zu erkennen und anzuerkennen, dass auch andere Wesen als Menschen Rechte haben und politisch handeln können. Es wurden und werden  viele Diskussionen zu diesem Thema geführt. Oft geht es dabei um Respekt und Schutz der Natur. Die ökologischen Krisen machen es aber darüber hinaus auch nötig, die Handlungskraft der Natur, des *land* anzuerkennen und mit ihr, statt sie auzubeuten, politische und wirtschaftliche Bündnisse zu schließen.
 
 ### Bündnisse mit der Natur und regenerative Politik
@@ -26,22 +24,6 @@ Man kann solche Rechte in zwei verschiedenen Weisen verstehen: Als Rechte der Me
 Für die Demokratie ist die Anerkennung von Rechten der Natur eine weitere Herausforderung. Noch größer wird die Herausforderung, wenn man sich klar macht, was *stewardship* über die Anerkennung von Rechten hinaus bedeutet: Menschlichen Aktivitäten werden durch das Funktionieren von Ökosystemen nicht nur beschränkt, sie müssen sich auch positiv daran orientieren. Damit werden Kollektive aus menschlichen und nichtmenschlichen Akteuren zu politisch Handelnden. Das widerspricht der *modernen* politischen Ontologie, in der Gesellschaften durch die Vergesellschaftung von Menschen entstehen und Natur als Außen und Mittel zum Zweck verstanden wird. Es widerspricht aber nicht der historischen Realität, in der die Qualitäten moderner Gesellschaften gerade durch die gesteigerte Ausbeutung natürlicher Ressourcen ermöglicht werden. *Wir sind nie modern gewesen*, wie ein der Titel eines Buches von Bruno Latour lautet.
 
 In den letzten Jahren wurde immer öfter betont, auch im letzen Bericht des IPCC, dass das Wissen indigener Völker eine wichtige Rolle bei der Erhaltung von Ökosystemen hat. Wo Rechte der Natur juristisch vuerankert werden, werden deshalb oft auch indigene Gesellschaften mit einem besonderen Rechtsstatus anerkannt. In einer ökologischen Demokratie würde aber der Gegensatz zwischen vormodernen, indigenen Kulturen und *der* (als einer globalen Einheit verstandenen) modernen Kultur hinfällig. Es würden spezifische Regulierungen, Wissens- und Rechtsysteme entstehen, die mit den ökologischen Gegebenheiten z.B. in einer Küsten oder einer alpinen Region viel enger zusammenhingen, als wir das in unseren modernen Traditionen gewohnt sind. 
-
-
-
-(Stichwort: Human Stewardship) Wie lässt sich die materielle, geosoziale basis im Diskurs repräsentieren** Wie kann man Ökosysteme in die Demokratie einbeziehen? Eine ökologische Diskurskultur ist irdisch, *terrestrisch*, im Gegensatz zu *global*. Sie sieht die lokalen Gegebenheiten nicht vor allem als bestandteile eines globalen Marktes. Wie kann man nichtmenschliche Akteure im Diskurs etablieren?** Eine ökologische Diskurskultur muss handlungsfähige Kollektive menschlicher und nichtmenschlicher Akteure herstellen. Sie unterscheidet sich von den anthropozentrischen politischen Diskursen der Neuzeit.
-        - Globale entwicklung: Anthropozän und Human Stewardship
-        - Lokale Entwicklung:  Verantwortung für die Ökosysteme hier, Regionalisierung
-
-Mir geht es nicht, jedenfalls nicht direkt, um dir Polarisierung zwischen rechten Populisten und den liberalen (im weitesten Sinn) Diskursen, die unser herkömmliches demokratisches Spektrum ausmachen. Mir geht es um eine politische Diskurskultur, die andere als die bekannten politischen Akteure einführt, z.B. Gletscher, die Schneedecke, invasive Insekten und sich verändernde Wälder. Ich stelle die Frage, wie wir mit diesen Akteuren in Zukunft Politik machen werden und ich versuche zu beantworten, warum wir sie als politische Akteure begrüßen müssen. 
-
-### Adaptation
-
- Eine ökologische Diskurskultur muss die Voraussetzungen dafür schaffen, dass wir uns den sich verändernden ökologischen bedingungen anpassen.
-
-### Minderung
-
-Darüber hinus muss eine ökologische Diskurskultur aktiv ökologische Katastrophen verhindern. Sie muss darauf ausgerichtet sein, dass wir fasche Entwicklungen der Gegenwart und der Vergangenheit korrigieren. 
 
 Beide Diskurstypen, die liberalen und die identitären, kann man als *anthropozentrisch* oder auch als *soziozentrisch* bezeichnen (wenn man davon ausgeht, dass Gesellschaften nur aus Menschen bestehen). Für sie finden Gesellschaft und Politik in einer weitgehend stabilen Umwelt statt. Die Beziehungen zu dieser Umwelt sind von einem ganz anderen Typ als die Beziehungen der Mitglieder der Gesellschaft zueinander. Gletscher, Flüsse oder Wälder sind keine Subjekte. 
 

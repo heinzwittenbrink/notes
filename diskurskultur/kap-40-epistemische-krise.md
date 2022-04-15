@@ -11,9 +11,7 @@ Es ist gut erforscht, wie vor allem in Amerika diese Polarisierung den Boden fü
 
 ### Verbindung von medialer Polarisierung und antiwissenschaftlicher Manipulation
 
-Heute übernimmt dieser polarisierte, territorialistische Diskurs immer mehr auch die wissenschaftsfeindliche Propaganda, die über Jahrzehnte aus wirtschaftlichem Interesse heraus vor allem von der Fossil Fuel-Indurstrie gefördert wurde. Seit dem Beginn der Erforschung der ökologische Krisen, eigentlich schon seit dem Beginn einer ökologischen Bewegung, haben Interessengruppen publizistisch gegen ökologische Politik mobilisiert. Sie waren und sie sind dabei erfolgreich. Milliardäre, die gezielt politisch manipulieren, spielen dabei eine wichtige Rolle. Andererseits wird sie von den monopolistischen und werbefinanzierten Internetplattformen begünstigt. 
-
-Die Verbindung von antiökologischer Propaganda und antiliberaler Polarisierung ist ein Hinweis darauf, dass es Zusammenhänge zwischen den ökologischen Krisen und der Krise der Demokratie gibt. 
+Heute übernimmt dieser polarisierte, territorialistische Diskurs immer mehr auch die wissenschaftsfeindliche Propaganda, die über Jahrzehnte aus wirtschaftlichem Interesse heraus vor allem von der Fossil Fuel-Indistrie gefördert wurde. Seit dem Beginn der Erforschung der ökologische Krisen, eigentlich schon seit dem Beginn einer ökologischen Bewegung, haben Interessengruppen publizistisch gegen ökologische Politik mobilisiert. Sie waren und sie sind dabei erfolgreich. Milliardäre, die gezielt politisch manipulieren, spielen dabei eine wichtige Rolle. Andererseits wird sie von den monopolistischen und werbefinanzierten Internetplattformen begünstigt. 
 
 Für diese Gruppen ist es charakteristisch, dass sie vor der Spaltung der Gesellschaft warnen und sie zugleich betreiben. Die Polarisierung ist dabei vor allem ein mediales Phänomen, sie gehört zu einer Gegenöffentlichkeit, die sich gegen die Öffentlichkeit der demokratischen, liberalen Gesellschaft abdichtet. 
 

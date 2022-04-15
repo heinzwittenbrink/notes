@@ -1,11 +1,5 @@
 ## 8. Hängen ökologische Krisen und antidemokratische Tendenzen zusammen?
 
-
-**(Stichwort: Road to Tyranny) 
-     - Globale entwicklung: Petrodiktaturen, 
-     - Lokale entwicklung: Wahlbeteiligung, Engagement
-     - 
-
 Ziel einer ökologischen Diskurskultur ist es, ökologische Kollektive zu verwirklichen - resiliente Gesellschaften aus Menschen und nichtmenschlichen Handelnden, die prosperieren, ohne die planetaren Grenzen zu überfordern. Der ökologische politische Diskurs ermöglicht gemeinsames ökologisches Handeln. 
 
 Eine ökologische Diskurskultur trägt dazu bei, die Demokratie zu erweitern und dabei zu lokalisieren, zu *erden*. Dazu gehört die kritische Auseinandersetzung mit liberalen und sozialistischen Diskursen. 
@@ -21,13 +15,6 @@ Wer die Demokratie reformieren will, um ökologische Katastrophen zu verhindern 
 Damit hat der ökologische Diskurs eine weitere, kurzfristige Aufgabe: die Demokratie gehen die Tyrannei von rechts zu verteidigen. Dazu sind Bündnisse mit den liberalen und den traditionellen linken Kräften nötig, gegen die man zugleich eine ökologische Politik durchsetzen will. 
 
 Es ist eine Aufgabe ökologischer Parteien und Bewegungen, ökologische Politik in Bündnissen mit liberalen und sozialistischen Parteien durchzusetzen, ohne die langfristigen Ziele dieser Politik durch inkrementelle Lösungen zu gefährden. Diese Aufgabe lässt sich nicht diskursiv lösen. Sie bringt aber den ökologischen Diskurs – die Stiftung eines ökologischen Wir – in eine kritische Situation. Diese kritische Situation zu konfrontieren, ihre Widersprüche zu diskutieren, ohne die Eigenständigkeit der ökologischen Bewegung aufzugeben (weil man eine weitere Reformpartei wird), oder aber 
-
-
-Diese Leugnung ist ein essentieller Bestandteil der rechten Ideologie. Deshalb kann es mit diesem Lager keine Kooperation geben. Das bedeutet auch, dass die Polarisierung, die zu dieser Ideologie gehört, bekämpft werden muss und sich eine gemeinsame Frontstellung mit den liberalen und sozialistischen Kräften gegen Rechts ergibt. 
-
-In welchem Verhältnis stehen die verschiedenen Demokratiekrisen zueinander? Können wie den autoritären Kräften durch ein neues, ökologisches Demokratiemodell Energien entziehen?
-
-
 
 Zur Entstehung der antiliberalen Rechten haben viele Faktoren geführt, sicher nicht nur die ökologischen Krisen. Die ökologischen Krisen erfordern – jedenfalls versucht dieser Aufsatz das herauszuarbeiten – eine Veränderung, vor allem eine Erweiterung der Demokratie. Sie haben das Potenzial Probleme zu lösen, die zum Aufstieg der Rechten geführt haben. Eine ökologische Diskurskultur eine lokale demokratische Ermächtigung. Sie widerspricht der Unvermeidbarkeit und der Nivellierung politischer Unterschiede, die für die demokratische Politik der letzten Jahrzehnte charakteristisch war. 
 
