@@ -31,15 +31,35 @@ Es gibt viele Versuche, die Gründe für das Nichthandeln zu erkennen. Sie wird 
 
 Wenn man die Klimakrise als Demokratiekrise versteht, liegt es nahe zu fragen, wie die Demokratie mit den Verhältnissen zu tun hat, die in diese Krisen hineingeführt haben. Es spricht vieles dafür, dass die Demokratie, wie wir sie praktizieren, eng mit der Ausbeutung der Ressourcen des Planeten verbunden ist. 
 
+Timothy Mitchell stellt in *Carbon Democracy* sorgfältig dar, wie eng die Demokratie in den westlichen Ländern mit der Ausbeutung fossiler Energien verbunden ist, und wie die anscheinend unbegrenzt und zu niedrigsten Preisen zur Verfügung stehenden Energieträger Öl und Gas dazu beigetragen haben, dass im Westen seit dem zweiten Weltkrieg Politik zu großen Teilen als Management *der Wirtschaft* verstanden wurde. Die immer weiter und immer mehr sprudelnden Energiequellen etablierten erst das Konzept eines unbegrenzten Wirtschaftswachstums. Die Aussicht auf immer mehr Teilhabe an diesem Wirtschaftswachstum sicherte der Demokratie Zustimmung. Durch die Bindung der Zahlungen für das Öl an den Dollar stellte die Ausbeutung der fossilen Energieträger auch sicher, dass das Finanzsystem funktionierte. Der gesamte westliche Lebensstile – von der Mobilität über die schnell wachsenden Städte bis zu den Eigenheimsiedlungen in ihren Peripherien und die mit Kunstdünger intensivierte Landwirtschaft - hängt von fossilen Energien ab. 
+
+Aber auch über die fossilen Energien hinaus ist die Existenz der modernen westlichen (oder nördlichen) Gesellschaften an die Verfügung über immer mehr Rohstoffe gebunden. Der französische Philosoph Pierre Charbonnier stellt in *Abondance et Liberté* detailliert dar, wie das europäische politische Denken über Jahrhunderte immer abhängig von Voraussetzungen  formuliert wurde, die wir heute als *ökologisch* bezeichnen würden: Gesellschaft wurde von der Natur klar getrennt, wobei es aber für die Gesellschaft essentiell war, die Natur so effizient wie möglich auszunutzen und dabei immer mehr Fortschritte zu machen. Für die liberale wie für die sozialistische Tradition ist es entscheidend, dass die *Produktion* Güter zur Verfügung stellt, über deren Verfügung dann politische Auseinandersetzungen geführt werden können.
+
+Viele Indizen zeigen, dass die Demokratie schnell an Unterstützung verliert, wenn Energie nicht mehr selbstversatändlich zur Verfügung steht. Die Gelbwesten-Proteste in Frankreich brachen aus, weil Benzin und Diesel um ein paar Cent verteuert wurden. 
+
+Die Abhängigkeit der demokratischen Gesellschaften von den fossilen Energien und der Ausbeutung von immer mehr Rohstoffen lässt sich aber nicht einfach darauf reduzieren, dass die Zustimmung der Mehrheit der Bevölkerung von Energiesicherheit und Wirtschaftswachstum abhängt. Zur Governance, wie sie sich seit dem zweiten Weltkrieg durchsetzte, gehört die Abhängigkeit von einer als autonome Realität angelegten Wirtschaft, die staatlich beeinflusst oder gesteuert wird, aber laufend weiter wächst. Zu dieser Governance gehören die Auseinandersetzungen über die gerechte Verteilung der Ergebnisse des Wachstums, das technokratische Management der Wirtschaft und die Abhängigkeit politischer Entscheidungen von privat kontrollierten Finanzströmen. Die Mitbestimmung der Wählerinnen und Wähler beschränkt sich auf die Entscheidung darüber, welche Parteien welchen Einfluss in den Parlamenten haben. Die im weitesten Sinne technokratische Verwaltung lässt sich in ihrem konkreten Handeln nicht demokratisch steuern. Eine solche Steuerung ist abhängig vom Expertenwissen über *die Wirtschaft*. 
+
+Diese Art von Governance hätte sich ohne fossile Brennstoffe nicht etablieren können und sie gibt den Firmen und gesellschaften, die die Förderung und den Vertrieb fossiler Breinnstoffe beherrschen, eine Machtposition, die größer ist als die aller anderen Gruppen - wobei große Teile der Wirtschaft direkt oder indirekt von der Fossilindustrie abhängig sind. 
+
+Dass die ökologischen Krisen der Gegenwart auch zu einer Demokratiekrise führen, hängt also damit zusammen, dass die modernen Demokratien darin, wie in ihnen regiert wird, wie die Aufgaben zwischen Politik, Wirtschaft und Verwaltung bestimmt sind, aufs engste mit der fossilen Wirtschaft, die unbegrenzt Energie zur Verfügung stellt, und mit anderen immer intensiveren *material flows* integriert sind. 
+
 ## Demokratische Legitimation der antiökologischen Tyrannei
 
 Man kann diese ganze Problematik ignorieren und damit eine faktenbasierte Steuerung der gesellschaft ablehnen und durch gewalt ersetzen. Das betreiben diejenigen, die die demokratische Governance von rechts ersetzen. Dass diese kräfte national und international so stark geworden sind, hat sicher unterschiedliche Ursachen, aber es dürfte auch mit den Herausforderungen durch die ökologische krise zusammenhängen. Dabei wollen die Rechten vor allem den Status quo bei der Versorgung der Bevölkerung mit billigen Energien erhalten. 
+
+Die Populisten greifen das Netzwerk von politischen, wissenschaftlichen und administrativen Diskursen an, das die Governance der demokratischen Gesellschaften ausmacht. Sie nutzen die offensichtlichen Schwierigkeiten dieses Modells dafür aus, Gruppen an die Macht zu bringen, die sich persönliche Vorteile verschaffen können. Während sie die demokratischen Formen der Governance zerstören oder entmachten, erhalten sie vorgeblich den gewohnten Sozialstaat. Sie versprechen einen Ausweg aus den Krisen der westlichen Demokratien, aber nicht durch eine Revision der Mechanismen dieser Demokratien, sondern durch deren Zerschlagung und Ersetzung durch persönliche Herrschaft. Sie intensivieren dabei die ökologisch katastrophalen Entwicklungen der Wirtschaft der letzten Jahrzehnte und bauen die Kontrollinstrumente ab. 
 
 ### Epistemic crisis
 
 ### Polarisierung
 
+Ein wichtiges Element der Zerstörung der demokratischen Governance ist die Zerstörung des politischen Diskurses durch extreme Polarisierung. 
+
 ### Territorialisierung
+
+Die Populisten versprechen, die globalisierte Wirtschaft, zu deren Governance die Nationalstaaten immer weniger in der Lage waren, durch eine territorial verstandene Wirstschaft zu ersetzen, die so funktioniert wie man es von den funktionierenden Sozialstaaten der zweiten Hälfte des 20. Jahrhunderts kennt. So hat sich z.B. ausgerechnet die rechtsradikale FPÖ und H.C. Strache auf Bruno Kreisky berufen. Sie setzen der Globalisierung eine nationalistische Idylle entgegen einschließlich eines mythisierten Volks.
+
+Auf die ökologischen Krisen antworten sie dabei durch kurzfristige Ausbeutung von Ressourcen. Ihre Politik führt zu einer dramatischen Verschlimmerung der ökologischen Krisen, deren Erforschung und Kommunikation sie mit allen Mitteln verhindern. 
 
 
 
