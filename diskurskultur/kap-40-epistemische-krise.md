@@ -3,17 +3,6 @@
 
 ### Polarisierung als Instrument des Rechtspopulismus
 
-Die Corona-Leugner-Demos waren der letzte und bisher drastischste Ausdruck einer wissenschaftsfeindlichen politischen Haltung. 
-
-Zu dieser Haltung gehört eine Polarisierung, ein Freund-Feind-Schema und die Abkopplung von den offiziellen politischen Diskursen.
-
-Es ist gut erforscht, wie vor allem in Amerika diese Polarisierung den Boden für Trump bereitet hat. Sie führt zu einer *epistemic crisis*, die von Interessierten befeuert wird. Zu den Interessierten gehören die Fossil fuel-Industrie und autoritäre Regime. 
-
-### Verbindung von medialer Polarisierung und antiwissenschaftlicher Manipulation
-
-Heute übernimmt dieser polarisierte, territorialistische Diskurs immer mehr auch die wissenschaftsfeindliche Propaganda, die über Jahrzehnte aus wirtschaftlichem Interesse heraus vor allem von der Fossil Fuel-Indistrie gefördert wurde. Seit dem Beginn der Erforschung der ökologische Krisen, eigentlich schon seit dem Beginn einer ökologischen Bewegung, haben Interessengruppen publizistisch gegen ökologische Politik mobilisiert. Sie waren und sie sind dabei erfolgreich. Milliardäre, die gezielt politisch manipulieren, spielen dabei eine wichtige Rolle. Andererseits wird sie von den monopolistischen und werbefinanzierten Internetplattformen begünstigt. 
-
-Für diese Gruppen ist es charakteristisch, dass sie vor der Spaltung der Gesellschaft warnen und sie zugleich betreiben. Die Polarisierung ist dabei vor allem ein mediales Phänomen, sie gehört zu einer Gegenöffentlichkeit, die sich gegen die Öffentlichkeit der demokratischen, liberalen Gesellschaft abdichtet. 
 
 ### Polarisierung als Falle für den ökologischen Diskurs
 
