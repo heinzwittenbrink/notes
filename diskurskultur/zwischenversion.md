@@ -1,6 +1,6 @@
 # Ökologische Diskurskultur oder Demokratiekrise?
 
-Kim Stanley Robinson schildert in *Das Ministerium für die Zukunft* [-@robinsonMinisteriumFurZukunft2021], wie es der Menschheit zwischen 2030 und 2050 gelingt, die Klimakatastrophe aufzuhalten. Nach Hitzewellen mit Millionen Toten entscheiden sich die Staaten der Welt zusammenzuarbeiten, reduzieren die Emissionen radikal und überlassen eine Hälfte der Erde wieder der Natur. Der CO<sub>2</sub>-Gehalt der Atmospäre beginnt zu sinken. In den 50er Jahren des 21. Jahrhunderts können die Menschen hoffen, dass sich der Planet zu ihre Lebzeiten erholen wird.
+Kim Stanley Robinson schildert in *Das Ministerium für die Zukunft* [@robinsonMinisteriumFurZukunft2021], wie es der Menschheit zwischen 2030 und 2050 gelingt, die Klimakatastrophe aufzuhalten. Nach Hitzewellen mit Millionen Toten entscheiden sich die Staaten der Welt zusammenzuarbeiten, reduzieren die Emissionen radikal und überlassen eine Hälfte der Erde wieder der Natur. Der CO<sup>2</sup>-Gehalt der Atmospäre beginnt zu sinken. In den 50er Jahren des 21. Jahrhunderts können die Menschen hoffen, dass sich der Planet zu ihre Lebzeiten erholen wird.
 
 Diese positive Utopie wird nicht nur auf friedlichem Wege Wirklichkeit. In Indien formiert sich die Terrororganisation *Kinder der Kali*. Auch das *Ministerium für die Zukunft* – so heisst im Roman die UN-Organisation, die die globale Erhitzung bekämpft  – hat einen *schwarzen Flügel*, in dessen Operationen nicht einmal die Chefin des Ministeriums eingeweiht ist. Der Kampf für das Klima wird auch mit tödlichen Attentaten auf Exponenten der fossilen Wirtschaft geführt. Drohnenanschläge auf Dutzende von Flugzeuge beenden weltweit die Zivilluftfahrt mit fossilen Brennstoffen. Das Weltwirtschaftsforum in Davos wird gekidnappt und zwangsweise umerzogen.
 
@@ -12,13 +12,14 @@ Wir leben – so sagen es viele Geologen – im Anthropozän. Wir wissen, dass w
 
 Im Anthropozän haben menschliche Aktivitäten entscheidenen Einfluss auf die bisher zuvor rein natürlichen Prozesse, von denen die Existenz der menschlichen Gesellschaften abhängt. In den Erdsystemwissenschaften spielt das Konzept der *planetaren Grenzen* eine große Rolle. Damit sind Grenzen der Belastbarkeit der sich selbst regulierenden Systeme gemeint, die vom Leben auf der Erde produziert wurden und dieses Leben umgekehrt möglich machen. Werden diese Grenzen überschritten, verändert sich das ganze System in einer unvorhersehbaren Weise, die alle Komponenten des System beeinflussen kann. Die Existenz von Ökosystemen und Gesellschaften, sogar die Existenz der menschlichen Zivilisation steht damit auf dem Spiel.
 
-Die Klimakrise ist die am besten untersuchte Überschreitung der planetaren Grenzen – aber nicht die einzige und nicht einmal die gefährlichste. Der neueste Bericht des Weltklimarats stellt fest, dass die Fortsetzung der aktuellen Politik dazu führen wird, dass die Temperaturen am Ende dieses Jahrhunderts um etwa 3,2° Celsius über denen vor der Industrialisierung liegen werden; die vor der letzten Klimakonferenz COP26 eingegangenen Selbstverpflichtungen würden zu 2,8° Celsius Erwärmung führen [@ipccWorkingGroupIII2022, pp. 21-22]. Dieser Temperaturunterschied bedeutet für alle Ökosysteme auf der Erde Veränderungen, die bei weitem drastischer sind als am Ende der letzten Eiszeit. Überdies vollziehen sie sich in einem Bruchteil der Zeit, die in der Erdgeschichte für ähnliche Anpassungen zur Verfügung stand. Seit dem mittleren Pliozän vor über drei Millionen Jahren waren CO<sub>2</sub>-Gehalt und Temperaturen nicht mehr so hoch [@ipccClimateChange20212021 p. 1891]. Damals lag der Meeresspiegel zwischen 5 und 25 Metern über seinem heutigen Niveau.
+Die Klimakrise ist die am besten untersuchte Überschreitung der planetaren Grenzen – aber nicht die einzige und nicht einmal die gefährlichste. Der neueste Bericht des Weltklimarats stellt fest, dass die Fortsetzung der aktuellen Politik dazu führen wird, dass die Temperaturen am Ende dieses Jahrhunderts um etwa 3,2° Celsius über denen vor der Industrialisierung liegen werden; die vor der letzten Klimakonferenz COP26 eingegangenen Selbstverpflichtungen würden zu 2,8° Celsius Erwärmung führen [@ipccWorkingGroupIII2022, S.21-22]. Dieser Temperaturunterschied bedeutet für alle Ökosysteme auf der Erde Veränderungen, die bei weitem drastischer sind als am Ende der letzten Eiszeit. Überdies vollziehen sie sich in einem Bruchteil der Zeit, die in der Erdgeschichte für ähnliche Anpassungen zur Verfügung stand. Seit dem mittleren Pliozän vor über drei Millionen Jahren waren CO<sup>2</sup>-Gehalt und Temperaturen nicht mehr so hoch [@masson-delmotteClimateChange20212021 p. 1891]. Damals lag der Meeresspiegel zwischen 5 und 25 Metern über seinem heutigen Niveau.
 
-Zur Klimakrise haben die Verbrennung von Kohle, Öl und Gas, die Intensivlandwirtschaft und das Bauen mit Zement geführt. Sie wurde schon vor Jahrzehnten prognostiziert. Weniger wahrgenommen werden andere, noch bedrohlichere Übertretungen der planetaren Grenzen. Die Zerstörung der  Artenvielfalt hat die Dimensionen des Massenaussterbens am Ende der Ära der Dinosaurier [@cowieSixthMassExtinction2022]. Die Landwirtschaft hat den Stickstoff- und Phosphorhaushalt bereits so verändert, dass viele Ökosysteme gefährdet sind [@campbellAgricultureProductionMajor2017]. Noch nicht ausreichend erforscht, aber bereits erkennbar bedrohlich sind die Folgen, die der Eintrag neuartiger Substanzen in das Erdsystem bereits hat – Mikroplastik ist dafür das bekannteste Beispiel.
+Zur Klimakrise haben die Verbrennung von Kohle, Öl und Gas, die Intensivlandwirtschaft und das Bauen mit Zement geführt. Sie wurde schon vor Jahrzehnten prognostiziert. Weniger wahrgenommen werden andere, noch bedrohlichere Übertretungen der planetaren Grenzen. Die Zerstörung der  Artenvielfalt hat die Dimensionen des Massenaussterbens am Ende der Ära der Dinosaurier [@cowieSixthMassExtinction2022]. Die Landwirtschaft hat den Stickstoff- und Phosphorhaushalt bereits so verändert, dass viele Ökosystem gefährdet sind [@campbellAgricultureProductionMajor2017]. Noch nicht ausreichend erforscht, aber bereits erkennbar bedrohlich sind die Folgen, die der Eintrag neuartiger Substanzen in das Erdsystem bereits hat – Mikroplastik ist dafür das bekannteste Beispiel.
 
 Die Folgen der ökologischen Krisen spüren wir in unserer Umgebung, vom Verlust des Dachstein-Gletschers bis zur Trockenheit in der Südsteiermark. Auch in Graz gab es schon einen Starkregen, der die Rückhaltekapazitäten der Stadt beinahe überfordert hätte. Viele Wälder in unserer näheren Umgebung sind bereits zerstört.
 
 Die Klimakatastrophe ist nicht mehr reversibel. Wir müssen mit ihren Folgen leben und können nur noch beeinflussen, wie sehr sie sich verschlimmern wird. Nach dem Ende des Holozän ist *human stewardship*, menschliches Kümmern nötig, um die *kritischen Zonen* des Planeten zu erhalten. *Human stewardship* ist vor allem eine lokale Aufgabe, denn ökologische Systeme sind lokale Systeme. Sie ist eine Chance für die Demokratie, während die ökologischen Krisen die Demokratien vor Herausforderungen stellen, auf die sie bisher keine Antworten gefunden haben.
+
 
 ## Die Klimakrise als Demokratiekrise
 
@@ -78,7 +79,7 @@ Dass *climate governance* nicht gelingt, hängt bis zur höchsten internationale
 
 Ein erfolgreiches Handeln gegen die Klimakrise setzt weltweite Kooperation und die Übernahme einer Generationen übergreifenden Verantwortung voraus. Angesichts dieser in der ganzen Geschichte einmaligen Bedingungen wird lokales Handeln gegen die Klimakrise oft gar nicht erst eingeleitet. Die Dimensionen der Krise werden als Überforderung wahrgenommen.
 
-Auch wenn die Klimakrise und die mit ihr verwandten ökologischen Krisen globale Phänomene sind, ist aber ein Handeln gegen sie lokal nötig und auch nur nur lokal möglich. Die Klimakrise erfordert, dass an jedem Ort der Erde dekarbonisiert wird, weil sich die Emissionen jedes Orts auf die gesamte Atmosphäre auswirken. Wenn die Emissionen weltweit pro Person bei höchstens einer bis zwei Tonnen Kohlendioxid liegen dürfen, dann sind die Menschen an jedem Ort dafür verantwortlich, diese Werte einzuhalten.
+Auch wenn die Klimakrise und die mit ihr verwandten ökologischen Krisen globale Phänemene sind, ist aber ein Handeln gegen sie lokal nötig und auch nur nur lokal möglich. Die Klimakrise erfordert, dass an jedem Ort der Erde dekarbonisiert wird, weil sich die Emissionen jedes Orts auf die gesamte Atmosphäre auswirken. Wenn die Emissionen weltweit pro Person bei höchstens einer bis zwei Tonnen Kohlendioxid liegen dürfen, dann sind die Menschen an jedem Ort dafür verantwortlich, diese Werte einzuhalten.
 
 In unseren politischen Diskursen sind die ökologischen Krisen zukünftige und globale Ereignisse. Es handelt sich bei ihnen  aber – deshalb ist der Ausdruck *Krise* irreführend – um irreversible Prozesse, die sich lokal vollziehen. Modelle wie das der planetaren Grenzen dürfen nicht so verstanden werden, als gäbe es so etwas wie einen planetaren Normalzustand, der sich in einer globalen Anstrengung bewahren oder wiederherstellen ließe.
 
@@ -104,25 +105,6 @@ Eine ökologische Diskurskultur ist nur möglich, wenn sie sich damit auseinande
 
 Lokales ökologisches Handeln setzt Partizipation voraus. Die Bewohnerinnen und Bewohner einer Straße, eines Blocks oder Platzes müssen ihre geteilte Verantwortung für die Entwicklung dieses Orts wahrnehmen – eines komplexen Systems, zu dem auch Pflanzen und der Tiere gehören. Überdies lässt sich die Entwicklung von komplexen ökologischen Systemen nicht zentral steuern. Sie bedarf aber einer laufenden wissenschaftlichen Beobachtung. Die demokratische Governance wird dabei datenabhängig sein und in einem engen digitalen Austausch mit anderen Städten und Regionen stattfinden – sie bedeutet also nicht die Rückkehr einem archaisch wirkenden vorindustriellen Zustand.
 
-Für eine solche alternative Governance gibt es Modelle – etwa das des *City Donut* [@doughnuteconomicsactionlabAmsterdamCityDoughnut2020]. Sie setzen eine geteilte lokale Verantwortung voraus, lassen sich also überhaupt nur im Diskurs erstellen. Zu ihrer Umsetzung hier in Graz könnte gehören, in Zukunft, wenn gebaut werden muss, mit Holz zu bauen, und damit zugleich die lokalen Wälder zu entwickeln und damit auch einen Teil der Wirtschaft zu stärken. Ein Thema der lokalen Governance muss eine Versorgung mit Lebensmitteln sein, die den lokalen Produzenten nutzt – heute kämpfen dagegen Zero Waste-Geschäfte wie die biologische Landwirtschaft in der Region um ihre Existenz, obwohl nur diese Betriebe elementare ökologische Standards erfüllen. 
+Für eine solche alternative Governance gibt es Modelle – etwa das der *Donut City*. Sie setzen eine geteilte lokale Verantwortung voraus, lassen sich also überhaupt nur im Diskurs erstellen. Zu ihrer Umsetzung hier in Graz könnte gehören, in Zukunft, wenn gebaut werden muss, mit Holz zu bauen, und damit zugleich die lokalen Wälder zu entwickeln und damit auch einen Teil der Wirtschaft zu stärken. Ein Thema der lokalen Governance muss eine Versorgung mit Lebensmitteln sein, die den lokalen Produzenten nutzt – heute kämpfen dagegen Zero Waste-Geschäfte wie die biologische Landwirtschaft in der Region um ihre Existenz, obwohl nur diese Betriebe elementare ökologische Standards erfüllen.
 
-Geteile Verantwortung für lokale Systeme ist, wie es Eleanor Ostrom gesagt hat, kein Allheilmittel [@ostromPolycentricSystemsCoping2010]. Die lokale Ebene kann auch nur Teil einer ökologischen Transformation sein. Es gibt aber keine Allheilmittel gegen die großen ökologischen Krisen. Wir können nur versuchen ihnen mit so viel Offenheit und Phantasie zu begegnen, wie es die Neuartigkeit und Risiken dieser Situation erfordern. 
-
-## Literatur
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Geteile Verantwortung für lokale Systeme ist, wie es Eleanor Ostrom gesagt hat, kein Allheilmittel. Die lokale Ebene kann auch nur Teil einer ökologischen Transformation sein. Es gibt aber keine Allheilmittel gegen die großen ökologischen Krisen. Wir können nur versuchen ihnen mit so viel Offenheit und Phantasie zu begegnen, wie es die Neuartigkeit und Risiken dieser Situation erfordern.
