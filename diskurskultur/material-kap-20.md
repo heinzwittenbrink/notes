@@ -1,0 +1,5 @@
+ **(Stichwort: Besonderheit der ökologischen Thematik) Relativiert die politische und diskursive praxis die ökologische thematik zu sehr? Worin besteht das Besondere der ökologischen Diskurse?** Nichtreduzierbarkeit. Ökologische Politik braucht eine eigene Diskurskultur, die sich nicht auf eine der vorhandenen Diskurskulturen reduzieren lässt.
+ **These: Ökologie darf nicht als Zusatzthema behandelt werden, sondern ist eine Dimension aller politischen Entscheidungen. Wir müssen für eine hegemoniale Position dieses Themas kämpfen **
+         - Globale Indizien: Ökologische Politik wird entweder einem im weitesten Sinn liberalen oder sozialistischen Politikkonzept untergeordnet
+         - Lokale Indizien: Themen der Parteien und der politischen Diskurse
+         - Schaffen wir es, eine Diskurshegemonie für ökologische Themen herzustellen?
