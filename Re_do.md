@@ -1,6 +1,6 @@
 ---
 created: 2022-05-12T13:05:29+02:00
-modified: 2022-05-12T14:48:12+02:00
+modified: 2022-05-12T14:52:13+02:00
 ---
 
 # Re:do
@@ -44,3 +44,13 @@ Charakter des Synthesis report
 ## Verhältnis zu SDGs
 
 ## Anpssungsgrenze für Biodiversität
+
+## Chance für optimale Entwicklung ist bereits verpasst
+
+## Klimaschutz
+
+## Kurs auf 3°
+
+## Abstand von NDCs und Klimaziele
+
+## 1,5 nicht Backes into the system
