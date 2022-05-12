@@ -1,6 +1,6 @@
 ---
 created: 2022-05-12T13:05:29+02:00
-modified: 2022-05-12T15:03:45+02:00
+modified: 2022-05-12T19:28:29+02:00
 ---
 
 # Re:do
@@ -8,7 +8,6 @@ modified: 2022-05-12T15:03:45+02:00
 Einleitung.  Visuals und Anlass
 
 Aktuelle Nachrichten - WMO 
-
 > We need climate action
 
 > Code Red for Humanity
