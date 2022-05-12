@@ -1,6 +1,6 @@
 ---
 created: 2022-05-12T13:05:29+02:00
-modified: 2022-05-12T14:42:04+02:00
+modified: 2022-05-12T14:48:12+02:00
 ---
 
 # Re:do
@@ -15,14 +15,32 @@ Aktuelle Nachrichten - WMO
 
 Pariser Abkommen und Sonderbericht 
 
+Charakter des Synthesis report
+
 # Science
 
 ## Wir sind bei 1,1
 
 ## Grenze bald überschritten
 
+## Fossile Brenn Stoffe als Treiber
+
 ## Kumulative Emissionen
 
 ## Budgets
 
 > Wir haben kein Budget mehr
+
+## Erhitzung global
+
+## Feuchtigkeit weltweit
+
+## Extremereignisse 
+
+# Anpassung
+
+## Maßnahmen bis 1,5 Grad
+
+## Verhältnis zu SDGs
+
+## Anpssungsgrenze für Biodiversität
