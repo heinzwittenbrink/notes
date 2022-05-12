@@ -80,7 +80,7 @@ In diesem Talk möchten wir uns damit beschäftigen, was sich dem AR 6 für unse
 
 ## 
 
-![](pics/spm5-b.png) 
+![](pics/spm-I-fig-5-b.png)   
 
 # Welche Folgen hat es bei uns, wenn die 1,5° überschritten werden? (IPCC zum Status in Zentraleuropa und in Städten)
 ## Gletscher und Schnee
