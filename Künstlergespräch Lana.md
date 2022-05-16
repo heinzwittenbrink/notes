@@ -1,0 +1,21 @@
+---
+created: 2022-05-14T16:08:26+02:00
+modified: 2022-05-14T16:43:38+02:00
+---
+
+# Künstlergespräch Lana
+
+Dark ich dich bitten, die Arbeiten selbst zu beschreiben und vielleicht etwas zum Hintergrund in Dalmatien zu sagen?
+
+Die Arbeiten sind einerseits gut verständlich in den, war sie aufgreifen, aber andererseits vielschichtig. Du greifst das Pseudohistoische an, aber arbeitest andererseits mit historischen Anspielungen. Hängt das sich damit zusammen, dass Kroatien in Vorstellungen von seiner eigenen Geschichte gefangen ist?
+
+
+Gender Aspekt man hat den Eindruck, das du als Person oder Frau extrem schimmernder wirst und dich kaum bewegen kannst. Andererseits wird aber die Architektur lebendig und vermenschlucht. Ist das einfach Spiel, oder liegt dahinter eine Strategie?
+
+Privatisierung und öffentlicher Raum
+
+Kann man sagen, dass hier einerseits offizielle öffentliche Bauformen zu sehr für privates verwendet werden, und Privates in den öffentlichen Raum überfliesst?
+
+Spielt der Aspekt naturzerstorung in diesem Arbeiten eine Rolle, auch wenn vor allem Artefakte gezeigt werden?
+
+Wie haben vor dir Bojan Mrdenivic und Ana Opaliić ausgestellt. Wie wichtig ist für dich der Dialog mit anderen Künstlerinnen in Kroatien, und kannst du Leute nennen für für dich wichtig sind?
