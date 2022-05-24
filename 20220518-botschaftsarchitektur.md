@@ -1,8 +1,9 @@
 ---
+title: Zur Botschaftsarchitektur in der Contentstrategie
+author: Heinz Wittenbrink
+date: 2022-05-23
 link-citations: true
 ---
-
-# Zur Botschaftsarchitektur in der Contentstrategie
 
 "Botschaftsarchitektur" wird in der Contentstrategie einerseits im mehr oder weniger alltagssprachlichen Sinn verwendet, und andererseits als ein Terminus technicus – wie übrigens viele Ausdrücke einschließlich des Ausdrucks "Contentstrategie" selbst.
 
@@ -37,5 +38,56 @@ Entscheidend für eine erfolgreiche Botschaftsarchitektur ist:
 * dass die Botschaften Kommunikationszielen entsprechen, also nicht einfach statische Markenqualitäten ausdrücken,
 * dass nur wenige Kernbotschaften formuliert werden und dass zwischen ihnen eine klare Hierarchie besteht,
 * dass strikt darauf geachtet wird, dass alle publizierten oder kommunizierten Inhalten diesen Botschaften entsprechen, so dass die Organisation klar kommuniziert, wofür sie bei ihren Adressat:innen steht. 
+
+
+## Zur Umsetzung
+
+### Styleguides und Definition von Content-Typen
+
+Eine Botschaftsarchitektur wird meist durch entsprechende Richtlinen, z.B. Styleguides umgesetzt. So hat etwa Franziska Kissling einen Styleguide für die Schweizer Umweltorganisation Pro Natura auf der Basis einer Botschaftsarchitektur entwickelt. Sie schreibt in der Einleitung ihrer Masterarbeit:
+
+> Aus der  Botschaftsarchitektur erarbeitete ich einen Styleguide, der die Stimme und Tonalität von Pro Natura  skizziert. [@kisslingProNaturaContentStrategie2018, Executive Summary] 
+
+![](pics/kissling-botschaftsarchitektur.png)
+
+In ihrem Styleguide hat die Botschaftsarchitektur z.B. die Folge, dass die Adressat:innen herzlich und mit wenig Distanz angeprochen werden. 
+
+Wie Margot Bloomstein selbst weist Kissling auch daraufhin, dass den herausgearbeiteten Kernbotschaften oft bestimmte Content-Typen entsprechen: 
+
+> Die hier festgehaltene Botschaftsarchitektur erfüllt auch noch einen weiteren wichtigen Zweck:  Sie erleichtert künftige Entscheide für neugeschaffene Content-Gefässe. So kann zum Beispiel die Erstellung von  Comics für eine Organisation sehr viel Sinn machen, die als «lustig» wahrgenommen werden möchte  [@kisslingProNaturaContentStrategie2018, p.70] 
+
+Eine Folge der gewählten Botschaftsarchitektur ist z.B., dass Erfolgsgeschichten eine große Rolle spielen.
+
+### Content Audits und iterative Optimierung
+
+Ein anderes öffentlich zugängliches Beispiel enthält die Masterarbeit von Melanie Massinger, in der es um eine Contentstrategie für ein Startup geht [@massingerContentStrategyBootstrapped2020].
+
+![](pics/massinger-botschaftsarchitektur.png) 
+
+Die Autorin hat dann einen an den Kernbotschaften orientierten Content Audit durchgeführt, um Handlungsbedarf festzustellen. Die folgende Grafik gibt die Kriterien dafür wieder. Dabei wird nach einem Ampelsystem entschieden, ob bestimmte Elemente der Architektur voll (=grün), teilweise (=gelb) oder gar nicht (=rot) entsprechen.
+
+![](pics/massinger-content-audit.png) 
+
+In diesem Fall wurden dann die Inhalte von einem kleinen Team entsprechend umgearbeitet. Für die Landing Page bedeutete das z.B. unter anderem  [@massingerContentStrategyBootstrapped2020, p.79-80]: 
+
+> **Landing page**
+
+> •   The homepage is not customer-oriented and authentic enough. The team needs to get rid of marketing language and focus more on the solutions it provides for  
+their customer segments.  
+> •   More in-product screenshots are necessary to better demonstrate that Placid can live up to its value proposition.  
+> •   The new customer stories are well aligned with the messaging. As an identified   opportunity, the author recommends grouping them into different common use cases to make the value proposition even clearer.  
+> •   The preset gallery (showing pre-made designs that can be used) could be a tool to actively prove the possibilities, and therefore reinforce the attribute of  
+reliability. At the moment, it is not delivering this value. The team will have to rework it to show more different image types and display them in a more integrated way.  
+
+Hier soll dabei interativ vorgegangen werden. Das bedeutet, dass die Inhalte immer wieder auditiert werden, wobei auch die Botschaftsarchitektur sich in zukünftigen Iterationen verändern kann.
+
+### Content Scorecards als Instruments von Audits
+
+Doris Eichmeier und Klaus Eck gehen in ihrem Buch *Die Content-Revolution im Unternehmen* [@eckContentRevolutionImUnternehmen2014] zwar nicht explizit auf die Botschaftsarchitktur im Sinne Bloomsteins ein. Sie beschreiben mit der Content Scorecard aber ein Werkzeug, mit  dem man für einzelne Inhalte überprüfen kann, ob die Botschaften, die die Stakeholder der Inhalte verstehen, den Absichten der Organisation entsprechen. 
+
+![](pics/content-scorecard.png) 
+
+Wie die Abbildung [@eckContentRevolutionImUnternehmen2014, p. 82] zeigt, spielen hier Faktoren wie Freundlichkeit und Einfühlungsvermögen eine große Rolle. Dieser Ansatz kommt dem Verständnis von Botschaftsarchitektur bei Bloomstein sehr nahe. 
+
 
 ## Nachweise
