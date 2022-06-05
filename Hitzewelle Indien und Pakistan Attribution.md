@@ -1,6 +1,12 @@
 ---
 created: 2022-06-04T08:51:24+02:00
 modified: 2022-06-04T08:52:55+02:00
+keywords:
+- "region: india"
+- "region: pakistan"
+- "event: heatwave spring 2022"
+- "time: 2022"
+- "process: increase-in-heatwaves"
 ---
 
 # Hitzewelle Indien und Pakistan Attribution

@@ -3,7 +3,7 @@ created: 2022-06-04T08:43:22+02:00
 modified: 2022-06-04T08:48:36+02:00
 ---
 
-# PIK Studie Ernährungssysrem
+# PIK Studie Ernährungssystem
 
 https://steadyhq.com/de/treibhauspost/posts/207e894e-0c57-48d1-ae5a-e85e3352e917
 
