@@ -5,6 +5,8 @@ keywords:
 - "region: global"
 - "carbon bombs"
 - "actor: fossil fuel corporations"
+- co2
+- 
 
 
 link-citations: true 
@@ -12,12 +14,13 @@ link-citations: true
 ---
 
 
-Carbon Budget, geplante und hoffentlich gestrandete Assets.
+## Carbon Budget, geplante und hoffentlich gestrandete Assets.
 
-| Größe | Wert | Quellen |
+
+|Größe|Wert|Quelle|
 |---|---|---|
-| Kumulative CO2-Emissionen 1850-2019, global | 2400±240 GtCO2 | IPCC (2022), p.5 ||   |   |   |
 |Beziehung kumulative Emissionen / Temperaturerhöhung (TCRE) | 0.44C je 1.000 GtCO2  | @tokarskaRefiningRemaining5C2021  |
+
 |Vermutliche Obergrenze für 1,5°|||
 |Vermutliche Obergrenze für 2°|||
 | Treibhausgasemissionen 2019 | 59±6.6 GtCO2-eq | @ipccSummaryPolicymakers2022, p.4 | 
@@ -27,9 +30,7 @@ Carbon Budget, geplante und hoffentlich gestrandete Assets.
 | Jährliche Emissionen 2021 global|||
 | Zukünftige Emissionen durch Vorhandene Förderinfrastruktur| 660 [460–890] GtCO2 |IPCC (2022), p.19 |
 | Zukünftige Emissionen durch Vorhandene Förderinfrastruktur inkl. Planungen der Energiewirtschaft | 850 [600–1100] GtCO2 | IPCC (2022), p.19 |
-| Geplante Emissionen durch Carbon Bombs||| 
-
-
+| Geplante Emissionen durch Carbon Bombs|||
 
 > The world’s biggest fossil fuel firms are quietly planning scores of “carbon bomb” oil and gas projects that would drive the climate past internationally agreed temperature limits with catastrophic global impacts, a Guardian investigation show [@taylorRevealedCarbonBombs2022]
 
