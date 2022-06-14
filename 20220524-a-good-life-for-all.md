@@ -4,6 +4,8 @@ keywords:
 
 - "content strategy and degrowth"
 
+title: "Exzerpte A good life for all"
+
 ---
 
 @oneillGoodLifeAll2018 

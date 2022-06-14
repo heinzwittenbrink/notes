@@ -1,3 +1,12 @@
+---
+title: "Botschaften Mai-Aktion"
+---
+
+#xr 
+
+
+
+
 Botschaften und Fakten Mai-Aktion
 
 Wir mobilisieren mit dieser Aktionen gegen eine Politik, die uns weiter und noch mehr von Gas und Öl abhängig macht - hier, in Europa und weltweit.

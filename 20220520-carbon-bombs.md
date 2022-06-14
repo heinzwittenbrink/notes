@@ -6,15 +6,18 @@ keywords:
 - "carbon bombs"
 - "actor: fossil fuel corporations"
 - co2
-- 
+title: "Carbon Bombs"
 
 
 link-citations: true 
 
 ---
 
+# Notizen Carbon Bombs
+
 
 ## Carbon Budget, geplante und hoffentlich gestrandete Assets.
+
 
 
 |Größe|Wert|Quelle|
@@ -28,9 +31,11 @@ link-citations: true
 | CO2-Emissionen 2019, Fossil Fuel Industry | 38±3 GtCO2-eq | @ipccSummaryPolicymakers2022, p.6 |
 | CO2-Emissionen 2019, Landnutzung | 6,6±4,6 GtCO2-eq | @ipccSummaryPolicymakers2022, p.6 |
 | Jährliche Emissionen 2021 global|||
-| Zukünftige Emissionen durch Vorhandene Förderinfrastruktur| 660 [460–890] GtCO2 |IPCC (2022), p.19 |
-| Zukünftige Emissionen durch Vorhandene Förderinfrastruktur inkl. Planungen der Energiewirtschaft | 850 [600–1100] GtCO2 | IPCC (2022), p.19 |
+| Zukünftige Emissionen durch Vorhandene Förderinfrastruktur| 660 \[460–890\] GtCO2 |IPCC (2022), p.19 |
+| Zukünftige Emissionen durch Vorhandene Förderinfrastruktur inkl. Planungen der Energiewirtschaft | 850 \[600–1100\] GtCO2 | IPCC (2022), p.19 |
 | Geplante Emissionen durch Carbon Bombs|||
+
+20220520-carbon-bombs.md
 
 > The world’s biggest fossil fuel firms are quietly planning scores of “carbon bomb” oil and gas projects that would drive the climate past internationally agreed temperature limits with catastrophic global impacts, a Guardian investigation show [@taylorRevealedCarbonBombs2022]
 

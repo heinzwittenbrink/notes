@@ -6,6 +6,7 @@ keywords:
 - "event: 13 year megadrought"
 - "issue: new constitution"
 - "researcher: Pablo García-Chevesich"
+title: "Dürren in Chile"
 
 ---
 

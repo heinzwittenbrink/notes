@@ -1,5 +1,6 @@
 ---
 link-citations: true
+title: "Wichtigstes Ziel der Klimabewegung: das Ende der fossilen Unternehmen"
 ---
 
 # Wichtigstes Ziel der Klimabewegung: das Ende der fossilen Unternehmen

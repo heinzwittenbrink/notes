@@ -17,6 +17,8 @@ keywords:
 - "system response: hydrometeorological hazards"
 - "system response: hurricanes"
 
+title: "WMA-Bericht 2021"
+
 
 ---
 

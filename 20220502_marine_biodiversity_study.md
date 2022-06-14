@@ -8,6 +8,7 @@ keywords:
 - "time: 2022-2100"
 - "time: 2022-2300"
 - "parameter:species-loss"
+title: "Studie zu Erhitzung und mariner Biodiversität"
 
 ---
 

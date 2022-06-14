@@ -1,3 +1,7 @@
+---
+title: "Metadaten für Knowledge Map Planetary Boundaries"
+---
+
 Überlegungen: Metadaten für mein persönliches Knowledge Management und für Publikationen
 
 Basis: Planetary Boundaries Framework

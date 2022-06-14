@@ -6,7 +6,9 @@ keywords:
 - "process: fossil fuel development"
 - "place: Jackdaw Field"
 - "event: permit to develop Jackdaw field"
-- "fosil fuels"
+- "fossil fuels"
+
+title: "Proteste gegen Jackdaw Field"
 
 
 

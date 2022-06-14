@@ -4,8 +4,10 @@ keywords:
 - "researcher: Carlos Nobre"
 - "researcher: Hans Joachim Schellnhuber"
 - "region: Brazil"
-
+title: Amazonas-Synode
 ---
+
+# Amazonas Synode
 
 
 @VaticanSchellnhuberSpeaks2019 

@@ -5,7 +5,7 @@ keywords:
 - Bruno Latour
 - Moderne
 
-
+title: "Semiotik und Latours Kritik an der Moderne"
 ---
 
 

@@ -8,9 +8,12 @@ keywords:
 - "researcher: Carlos Nobre"
 - "researcher: François-Michel Le Tourneau"
 - "institution: INPE"
-
+title: "Extremwetter in Brasilien"
 
 ---
+
+Extremwetter Brasilien
+
 
 > Même les vagues de froid extrême pourraient être liées aux évolutions du climat, abonde Carlos Nobre, qui travaille à l’université de São Paulo. _«Le réchauffement des eaux autour de l’Antarctique libère des masses d’air froid, qui remontent vers le Brésil. Ce processus a déjà été observé très précisément pour l’Arctique, et nous disposons d’éléments qui montrent que les mêmes mécanismes pourraient être à l’œuvre pour l’Antarctique»,_ précise le climatologue.
 

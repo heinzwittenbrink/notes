@@ -1,4 +1,5 @@
 ---
+title: "OMV Hauptversammlung"
 keywords:
 - "actor: OMV"
 - "actor: Alfred Stern" 
@@ -8,6 +9,8 @@ keywords:
 - "region: austria"
 
 ---
+
+# Zur OMV-Hauptversammlung
 
 Beteiligungen: 
 
