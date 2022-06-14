@@ -1,6 +1,6 @@
 ---
 created: 2022-06-14T14:45:27+02:00
-modified: 2022-06-14T14:59:51+02:00
+modified: 2022-06-14T15:01:13+02:00
 ---
 
 # Zur Ausstellung 'Graz - Teheran'
@@ -16,3 +16,5 @@ Teheran ist eine historische Metropole, vollgestopft und fast ohne freie Fläche
 Teheran ist extrem dicht bewohnt, und man kann keine Ruhe, Stille und Gelassenheit erleben, was im Gegensatz zu Graz steht, wo ich umherwanderte und häufig friedliche und leere Bereiche entdeckte, die für innere Ruhe und Stille standen.
 
  Ich habe Polaroidfilm verwendet, um  zu vermitteln, was on den Räumen meinen Bildern entspricht. Der Farbunterschied in den Bildern ist zufällig und das Ergebnis der Entwicklungschemikalien und der klimatischen Einflüsse der beiden Städte.
+
+Azam Shadpour
