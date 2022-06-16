@@ -15,6 +15,6 @@ Tehran is a historic metropolis, packed and almost without any vacant/open areas
 
 Tehran is super congested and one cannot experience peace, quiet and calm, which is the contrast to Graz where I wandered and discovered frequent peaceful and empty areas, which signified mental calm and tranquility.
 
- I used Polaroid film to convey the approximation of the spaces to my mental images. The color difference in the images is accidental and the result of the developing chemicals and climatic influences of both cities.
+I used Polaroid film to convey the approximation of the spaces to my mental images. The color difference in the images is accidental and the result of the developing chemicals and climatic influences of both cities.
 
 Azam Shadpour
