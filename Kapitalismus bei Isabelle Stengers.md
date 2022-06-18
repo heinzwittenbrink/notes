@@ -1,9 +1,11 @@
 ---
 created: 2022-06-18T11:33:22+02:00
 modified: 2022-06-18T11:35:38+02:00
+title: "Kapitalismus bei Isabelle Stengers"
+
 ---
 
-# Kapitalismus bei Isabelle Stengers
+
 
 ,> 7] ↑ Norbert WIENER, Cybernetics, MIT Press, Cambridge Mass., 1961, p. 24. On pourrait voir dans Le Capital de Marx un « modèle » d’histoire qui échappe à la critique de Wiener. Marx n’entend pas déduire l’histoire d’un modèle. Le pari de Marx, le requisit de son modèle, est que l’histoire du capitalisme est intelligible à partir de la question posée par un « universel », tout à la fois nécessaire et relatif à cette histoire, la baisse tendancielle du taux de profit. C’est la stabilité de la question, alors même que sera sans cesse réinventée la manière dont le problème en sera posé, c’est-à-dire dont ses conséquences seront évitées, qui permet à Marx de définir une « logique historique » unissant nécessité et contingence. Le Capital, comme sujet de cette histoire, est à la fois en position de soumission (à la question) et d’invention. Voir Daniel BENSAÏD, Marx l’intempestif, Fayard, Paris, 1995.
 [8] ↑ T. W. SCHOENER, « The Controversy over Interspecific Competition », American Scientist
