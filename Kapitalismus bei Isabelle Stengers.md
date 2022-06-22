@@ -1,6 +1,7 @@
 ---
 created: 2022-06-18T11:33:22+02:00
 <<<<<<< HEAD
+
 modified: 2022-06-18T11:35:38+02:00
 title: "Kapitalismus bei Isabelle Stengers"
 
