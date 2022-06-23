@@ -6,7 +6,12 @@ Diese Sammlung ist ein Versuch. Sie enthält Notizen, die ich u.a. für mein Blo
 
 Erste Beispiele: 
 
+
+## Ökologie und Politik 
+
 [[2022-06-16-16-04-10]] [Prozess: Ausbeutung zusätzlicher fossiler Brennstoffvorkommen](2022-06-16-16-04-10.html)
+
+[[2022-06-23-13-18-19]] [Prozess: Zunahme von Extremwetter](2022-06-23-13-18-19.html) 
 
 [Folgen der Erhitzung für das Po-System](2022-06-14-08-24-19.html)
 
