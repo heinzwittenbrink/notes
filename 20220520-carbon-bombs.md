@@ -13,6 +13,8 @@ link-citations: true
 
 ---
 
+[[2022-06-16-16-04-10]] [Prozess: Ausbeutung zusätzlicher fossiler Brennstoffvorkommen](2022-06-16-16-04-10.html) 
+
 # Notizen Carbon Bombs
 
 
@@ -41,27 +43,27 @@ link-citations: true
 
 Recherchen des Guardian, zum großen Teil basierend auf Studien von Urgewald:
 
-> Die Liste der Unternehmen mit den größten Förderplänen führt Quatar Energy an, gefolgt von Gazprom, Saudi Aramco, ExxonMobil und dem brasilianischen Ölgiganten Petrobras. Auf Platz neun und zehn stehen der niederländische Konzern Shell und die britische BP. [@GeplanteOlUnd2022]
+> Die Liste der Unternehmen mit den größten Förderplänen führt Quatar Energy an, gefolgt von Gazprom, Saudi Aramco, ExxonMobil und dem brasilianischen Ölgiganten Petrobras. Auf Platz neun und zehn stehen der niederländische Konzern Shell und die britische BP. [@GeplanteOelUnd2022]  
 
 [HeinzWittenbrink](https://jonudell.info/h/facet/?user=HeinzWittenbrink "search user")   20.5.2022 06:49:50   in Public      
 
-> geben die größten Öl- und Gaskonzerne für die Erschließung der Rohstoffe rund 103 Millionen US-Dollar pro Tag bis 2030 aus. [@GeplanteOlUnd2022]
+> geben die größten Öl- und Gaskonzerne für die Erschließung der Rohstoffe rund 103 Millionen US-Dollar pro Tag bis 2030 aus. [@GeplanteOelUnd2022] 
 
 [HeinzWittenbrink](https://jonudell.info/h/facet/?user=HeinzWittenbrink "search user")   20.5.2022 06:49:46   in Public      
 
-> Rund 60 Prozent der Bohrungen haben bereits begonnen, für eine Mehrheit gebe es auch schon endgültige finanzielle Zusagen. [@GeplanteOlUnd2022]
+> Rund 60 Prozent der Bohrungen haben bereits begonnen, für eine Mehrheit gebe es auch schon endgültige finanzielle Zusagen. [@GeplanteOelUnd2022]
 
 [HeinzWittenbrink](https://jonudell.info/h/facet/?user=HeinzWittenbrink "search user")   20.5.2022 06:49:30   in Public      
 
-> Längerfristig könnten diese Projekte sogar bis zu 646 Milliarden Tonnen CO₂ produzieren. Das ist mehr als das noch verfügbare weltweite CO₂-Budget , was noch bleibt, um das 1,5-Grad-Limit einzuhalten. Zum Vergleich: Derzeit geben alle Staaten der Welt rund 37 Milliarden CO₂ pro Jahr in die Atmosphäre ab. [@GeplanteOlUnd2022]
+> Längerfristig könnten diese Projekte sogar bis zu 646 Milliarden Tonnen CO₂ produzieren. Das ist mehr als das noch verfügbare weltweite CO₂-Budget , was noch bleibt, um das 1,5-Grad-Limit einzuhalten. Zum Vergleich: Derzeit geben alle Staaten der Welt rund 37 Milliarden CO₂ pro Jahr in die Atmosphäre ab. [@GeplanteOelUnd2022] 
 
 [HeinzWittenbrink](https://jonudell.info/h/facet/?user=HeinzWittenbrink "search user")   20.5.2022 06:49:05   in Public      
 
-> entspräche umgerechnet rund 97 Milliarden Tonnen CO₂-Äquivalente und damit so viel wie China nach heutigem Stand innerhalb eines Jahrzehnts ausstößt, heißt es in einer Recherche des britischen »Guardian« [@GeplanteOlUnd2022]
+> entspräche umgerechnet rund 97 Milliarden Tonnen CO₂-Äquivalente und damit so viel wie China nach heutigem Stand innerhalb eines Jahrzehnts ausstößt, heißt es in einer Recherche des britischen »Guardian« [@GeplanteOelUnd2022]
 
 [HeinzWittenbrink](https://jonudell.info/h/facet/?user=HeinzWittenbrink "search user")   20.5.2022 06:48:53   in Public      
 
-> Sie planen eine massive Ausweitung ihrer Geschäfte: Allein in den nächsten sieben Jahren sollen Förderprojekte starten, die rund 192 Milliarden Barrel der klimaschädlichen Rohstoffe aus dem Boden holen sollen. [@GeplanteOlUnd2022] 
+> Sie planen eine massive Ausweitung ihrer Geschäfte: Allein in den nächsten sieben Jahren sollen Förderprojekte starten, die rund 192 Milliarden Barrel der klimaschädlichen Rohstoffe aus dem Boden holen sollen. [@GeplanteOelUnd2022] 
 
 
 —
@@ -276,6 +278,6 @@ Recherchen des Guardian, zum großen Teil basierend auf Studien von Urgewald:
 > The world’s biggest fossil fuel firms are quietly planning scores of “carbon bomb” oil and gas projects that would drive the climate past internationally agreed temperature limits with catastrophic global impacts, a Guardian investigation show [@taylorRevealedCarbonBombs2022]
 
 
-![](IAE-Guardian-milestones-to-net-zero.png)
+![](pics/IAE-Guardian-milestones-to-net-zero.png)
 
-Grafik aus [@harveyNoNewOil2021]
+Grafik aus [@harveyNoNewOil2021]  
