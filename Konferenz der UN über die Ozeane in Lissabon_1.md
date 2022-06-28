@@ -1,6 +1,6 @@
 ---
 created: 2022-06-28T06:36:46+02:00
-modified: 2022-06-28T06:38:36+02:00
+modified: 2022-06-28T06:43:43+02:00
 ---
 
 # Konferenz der UN über die Ozeane in Lissabon
@@ -11,3 +11,12 @@ https://www.eea.europa.eu/highlights/eu-maritime-transport-first-environmental
 @EU_MARE @EU_ENV 
 
 🐦🔗: https://nitter.eu/CopernicusEU/status/1541460509307928578
+
+EU_MARE@respublicae.eu - This week Lisbon is turning bluer than ever
+
+The #UNOceanConference kicked off today in 🇵🇹. An opportunity for the 🌍 community to agree on actions to protect the ocean & to develop a sustainable #blueeconomy
+
+Read about the EU announcements at #UNCO2022⬇️
+https://ec.europa.eu/oceans-and-fisheries/news/2022-united-nations-ocean-conference-opportunity-not-be-missed-blue-planet-2022-06-27_en
+
+🐦🔗: https://nitter.eu/EU_MARE/status/1541499260516065283
